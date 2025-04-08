@@ -1,0 +1,361 @@
+{
+  "categories": {
+    "rules": {
+      "name": "Правила",
+      "icon": "https://api.etty.su/icons/rules.svg",
+      "children": {}
+    },
+    "legal": {
+      "name": "Документы",
+      "icon": "https://api.etty.su/icons/legal.svg",
+      "children": {}
+    },
+    "wiki": {
+      "name": "Вики Выживание",
+      "icon": "https://api.etty.su/icons/wikipedia.svg",
+      "children": {
+        "start": {
+          "name": "Начало игры",
+          "icon": "https://api.etty.su/icons/wiki/start/dirt.svg",
+          "children": {}
+        },
+        "battlepass": {
+          "name": "Боевой Пропуск",
+          "icon": "https://api.etty.su/icons/wiki/battlepass/bp.svg",
+          "children": {}
+        },
+        "clans": {
+          "name": "Кланы",
+          "icon": "https://api.etty.su/icons/wiki/clans/clans.svg",
+          "children": {}
+        },
+        "cases": {
+          "name": "Кейсы",
+          "icon": "https://api.etty.su/icons/wiki/cases/cases.svg",
+          "children": {}
+        },
+        "brewery": {
+          "name": "Brewery",
+          "icon": "https://api.etty.su/icons/wiki/brewery/brewery.svg",
+          "children": {}
+        },
+        "dbooks": {
+          "name": "Зачарования",
+          "icon": "https://api.etty.su/icons/wiki/dbooks/mythycal.svg",
+          "children": {}
+        },
+        "donate": {
+          "name": "Привилегии",
+          "icon": "https://api.etty.su/icons/wiki/donate/player.svg",
+          "children": {}
+        }
+      }
+    }
+  },
+  "files": {
+    "termsofuse": {
+      "category": "legal",
+      "name": "Пользовательское соглашение",
+      "file": "docs/termsofuse.mdx",
+      "icon": "https://api.etty.su/icons/legal1.svg"
+    },
+    "privacy-policy": {
+      "category": "legal",
+      "name": "Политика конфиденциальности",
+      "file": "docs/privacy-policy.mdx",
+      "icon": "https://api.etty.su/icons/legal2.svg"
+    },
+    "oferta_eternity": {
+      "category": "legal",
+      "name": "Договор оферты",
+      "file": "docs/oferta_eternity.mdx",
+      "icon": "https://api.etty.su/icons/legal3.svg"
+    },
+    "cookies_policy": {
+      "category": "legal",
+      "name": "Политика использования файлов cookie",
+      "file": "docs/cookies_policy.mdx",
+      "icon": "https://api.etty.su/icons/legal4.svg"
+    },
+    "modifications": {
+      "category": "rules",
+      "name": "Модификации клиента",
+      "icon": "https://api.etty.su/icons/modifications.svg",
+      "file": "rules/modifications.mdx"
+    },
+    "codex": {
+      "category": "rules",
+      "name": "Процедурный кодекс проекта",
+      "icon": "https://api.etty.su/icons/p.svg",
+      "file": "rules/codex.mdx"
+    },
+    "rules": {
+      "category": "rules",
+      "name": "Общие правила",
+      "icon": "https://api.etty.su/icons/rule1.svg",
+      "file": "rules/base-rules.mdx"
+    },
+    "survival": {
+      "category": "rules",
+      "name": "Правила режима Выживание",
+      "icon": "https://api.etty.su/icons/rule2.svg",
+      "file": "rules/survival-rules.mdx"
+    },
+    "media": {
+      "category": "rules",
+      "name": "Правила социальных сетей",
+      "icon": "https://api.etty.su/icons/rule3.svg",
+      "file": "rules/media-rules.mdx"
+    },
+    "start.acc": {
+      "category": "start",
+      "name": "Ваш аккаунт",
+      "icon": "https://api.etty.su/icons/wiki/start/cookie.svg",
+      "file": "wiki/start/acc.mdx"
+    },
+    "start.regions": {
+      "category": "start",
+      "name": "Регионы и приваты",
+      "icon": "https://api.etty.su/icons/wiki/start/wand.svg",
+      "file": "wiki/start/regions.mdx"
+    },
+    "brewery.guide": {
+      "category": "brewery",
+      "name": "Как пользоваться",
+      "icon": "https://api.etty.su/icons/wiki/brewery/cotel.svg",
+      "file": "wiki/brewery/guide.mdx"
+    },
+    "brewery.recipes": {
+      "category": "brewery",
+      "name": "Рецепты",
+      "icon": "https://api.etty.su/icons/wiki/brewery/book.svg",
+      "file": "wiki/brewery/recipes.mdx"
+    },
+    "battlepass.info": {
+      "category": "battlepass",
+      "name": "Информация",
+      "icon": "https://api.etty.su/icons/wiki/battlepass/info.svg",
+      "file": "wiki/battlepass/info.mdx"
+    },
+    "battlepass.quests": {
+      "category": "battlepass",
+      "name": "Квесты",
+      "icon": "https://api.etty.su/icons/wiki/battlepass/quests.svg",
+      "file": "wiki/battlepass/quests.mdx"
+    },
+    "battlepass.rewards": {
+      "category": "battlepass",
+      "name": "Награды",
+      "icon": "https://api.etty.su/icons/wiki/battlepass/rewards.svg",
+      "file": "wiki/battlepass/rewards.mdx"
+    },
+    "clans.information": {
+      "category": "clans",
+      "name": "Информация",
+      "icon": "https://api.etty.su/icons/wiki/battlepass/info.svg",
+      "file": "wiki/clans/inform.mdx"
+    },
+    "clans.level": {
+      "category": "clans",
+      "name": "Уровни клана",
+      "icon": "https://api.etty.su/icons/wiki/battlepass/info.svg",
+      "file": "wiki/clans/level.mdx"
+    },
+    "dbooks.simple": {
+      "category": "dbooks",
+      "name": "Обычные",
+      "icon": "https://api.etty.su/icons/wiki/dbooks/common.svg",
+      "file": "wiki/dbooks/simplebooks.mdx"
+    },
+    "dbooks.unique": {
+      "category": "dbooks",
+      "name": "Уникальные",
+      "icon": "https://api.etty.su/icons/wiki/dbooks/uniq.svg",
+      "file": "wiki/dbooks/uniquebooks.mdx"
+    },
+    "dbooks.elite": {
+      "category": "dbooks",
+      "name": "Элитные",
+      "icon": "https://api.etty.su/icons/wiki/dbooks/elite.svg",
+      "file": "wiki/dbooks/elitebooks.mdx"
+    },
+    "dbooks.ultimate": {
+      "category": "dbooks",
+      "name": "Ультимативные",
+      "icon": "https://api.etty.su/icons/wiki/dbooks/ultimate.svg",
+      "file": "wiki/dbooks/ultimatebooks.mdx"
+    },
+    "dbooks.legendary": {
+      "category": "dbooks",
+      "name": "Легендарные",
+      "icon": "https://api.etty.su/icons/wiki/dbooks/legendary.svg",
+      "file": "wiki/dbooks/legendarybooks.mdx"
+    },
+    "dbooks.fabled": {
+      "category": "dbooks",
+      "name": "Мифические",
+      "icon": "https://api.etty.su/icons/wiki/dbooks/mythycal.svg",
+      "file": "wiki/dbooks/fabledbooks.mdx"
+    },
+    "cases.donate": {
+      "category": "cases",
+      "name": "Кейс с донатом",
+      "icon": "https://api.etty.su/icons/wiki/battlepass/rewards.svg",
+      "file": "wiki/cases/donate.mdx"
+    },
+    "cases.books": {
+      "category": "cases",
+      "name": "Кейс с книгами",
+      "icon": "https://api.etty.su/icons/wiki/battlepass/rewards.svg",
+      "file": "wiki/cases/books.mdx"
+    },
+    "cases.effect": {
+      "category": "cases",
+      "name": "Кейс с эффектами",
+      "icon": "https://api.etty.su/icons/wiki/battlepass/rewards.svg",
+      "file": "wiki/cases/effect.mdx"
+    },
+    "cases.eggs": {
+      "category": "cases",
+      "name": "Кейс с яйцами",
+      "icon": "https://api.etty.su/icons/wiki/battlepass/rewards.svg",
+      "file": "wiki/cases/eggs.mdx"
+    },
+    "cases.plash": {
+      "category": "cases",
+      "name": "Кейс с плащами",
+      "icon": "https://api.etty.su/icons/wiki/battlepass/rewards.svg",
+      "file": "wiki/cases/plash.mdx"
+    },
+    "cases.daily": {
+      "category": "cases",
+      "name": "Ежедневный кейс",
+      "icon": "https://api.etty.su/icons/wiki/battlepass/rewards.svg",
+      "file": "wiki/cases/daily.mdx"
+    },
+    "donate.emperor": {
+      "category": "donate",
+      "name": "EMPEROR",
+      "icon": "https://api.etty.su/icons/wiki/donate/emperor.svg",
+      "file": "wiki/donate/emperor.mdx"
+    },
+    "donate.legend": {
+      "category": "donate",
+      "name": "LEGEND",
+      "icon": "https://api.etty.su/icons/wiki/donate/legend.svg",
+      "file": "wiki/donate/legend.mdx"
+    },
+    "donate.samurai": {
+      "category": "donate",
+      "name": "SAMURAI",
+      "icon": "https://api.etty.su/icons/wiki/donate/samurai.svg",
+      "file": "wiki/donate/samurai.mdx"
+    },
+    "donate.shinobi": {
+      "category": "donate",
+      "name": "SHINOBI",
+      "icon": "https://api.etty.su/icons/wiki/donate/shinobi.svg",
+      "file": "wiki/donate/shinobi.mdx"
+    },
+    "donate.ghost": {
+      "category": "donate",
+      "name": "GHOST",
+      "icon": "https://api.etty.su/icons/wiki/donate/ghost.svg",
+      "file": "wiki/donate/ghost.mdx"
+    },
+    "donate.shadow": {
+      "category": "donate",
+      "name": "SHADOW",
+      "icon": "https://api.etty.su/icons/wiki/donate/shadow.svg",
+      "file": "wiki/donate/shadow.mdx"
+    },
+    "donate.premium": {
+      "category": "donate",
+      "name": "PREMIUM",
+      "icon": "https://api.etty.su/icons/wiki/donate/premium.svg",
+      "file": "wiki/donate/premium.mdx"
+    },
+    "donate.vip": {
+      "category": "donate",
+      "name": "VIP",
+      "icon": "https://api.etty.su/icons/wiki/donate/vip.svg",
+      "file": "wiki/donate/vip.mdx"
+    },
+    "donate.player": {
+      "category": "donate",
+      "name": "PLAYER",
+      "icon": "https://api.etty.su/icons/wiki/donate/player.svg",
+      "file": "wiki/donate/player.mdx"
+    },
+    "rules.codex-06-03-2025": {
+      "category": "rules",
+      "name": "Процедурный кодекс проекта (утратил силу 06.03.2025)",
+      "icon": "https://api.etty.su/icons/rule2.svg",
+      "hidden": true,
+      "file": "rules/old/codex/codex-06-03-2025.mdx"
+    },
+    "rules.codex-12-03-2025": {
+      "category": "rules",
+      "name": "Процедурный кодекс проекта (утратил силу 12.03.2025)",
+      "icon": "https://api.etty.su/icons/rule2.svg",
+      "hidden": true,
+      "file": "rules/old/codex/codex-12-03-2025.mdx"
+    },
+    "rules.media-05-03-2025": {
+      "category": "rules",
+      "name": "Правила социальных сетей (утратил силу 05.03.2025)",
+      "icon": "https://api.etty.su/icons/rule2.svg",
+      "hidden": true,
+      "file": "rules/old/media/media-rules-05-03-2025.mdx"
+    },
+    "rules.survival-04-03-2025": {
+      "category": "rules",
+      "name": "Правила режима Выживание (утратил силу 04.03.2025)",
+      "icon": "https://api.etty.su/icons/rule2.svg",
+      "hidden": true,
+      "file": "rules/old/survival/survival-rules-04-03-2025.mdx"
+    },
+    "rules.survival-05-03-2025": {
+      "category": "rules",
+      "name": "Правила режима Выживание (утратил силу 05.03.2025)",
+      "icon": "https://api.etty.su/icons/rule2.svg",
+      "hidden": true,
+      "file": "rules/old/survival/survival-rules-05-03-2025.mdx"
+    },
+    "rules.survival-09-03-2025": {
+      "category": "rules",
+      "name": "Правила режима Выживание (утратил силу 09.03.2025)",
+      "icon": "https://api.etty.su/icons/rule2.svg",
+      "hidden": true,
+      "file": "rules/old/survival/survival-rules-09-03-2025.mdx"
+    },
+    "rules.survival-25-03-2025": {
+      "category": "rules",
+      "name": "Правила режима Выживание (утратил силу 25.03.2025)",
+      "icon": "https://api.etty.su/icons/rule2.svg",
+      "hidden": true,
+      "file": "rules/old/survival/survival-rules-25-03-2025.mdx"
+    },
+    "rules.survival-28-03-2025": {
+      "category": "rules",
+      "name": "Правила режима Выживание (утратил силу 28.03.2025)",
+      "icon": "https://api.etty.su/icons/rule2.svg",
+      "hidden": true,
+      "file": "rules/old/survival/survival-rules-28-03-2025.mdx"
+    },
+    "rules.rules-05-03-2025": {
+      "category": "rules",
+      "name": "Общие правила (утратил силу 05.03.2025)",
+      "icon": "https://api.etty.su/icons/rule2.svg",
+      "hidden": true,
+      "file": "rules/old/base/rules-05-03-2025.mdx"
+    },
+    "rules.rules-12-03-2025": {
+      "category": "rules",
+      "name": "Общие правила (утратил силу 12.03.2025)",
+      "icon": "https://api.etty.su/icons/rule2.svg",
+      "hidden": true,
+      "file": "rules/old/base/rules-12-03-2025.mdx"
+    }
+  }
+}
