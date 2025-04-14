@@ -224,40 +224,40 @@
                 "children": [],
                 "files": [
                     {
-                        "id": "",
-                        "title": "",
-                        "icon": "",
-                        "file": ""
+                        "id": "donate",
+                        "title": "Кейс с донатом",
+                        "icon": "https://api.etty.su/web/icons/wiki/cases/donate.svg",
+                        "file": "wiki/cases/donate.mdx"
                     },
                     {
-                        "id": "",
-                        "title": "",
-                        "icon": "",
-                        "file": ""
+                        "id": "books",
+                        "title": "Кейс с книгами",
+                        "icon": "https://api.etty.su/web/icons/wiki/cases/book.svg",
+                        "file": "wiki/cases/books.mdx"
                     },
                     {
-                        "id": "",
-                        "title": "",
-                        "icon": "",
-                        "file": ""
+                        "id": "effect",
+                        "title": "Кейс с эффектами",
+                        "icon": "https://api.etty.su/web/icons/wiki/cases/effects.svg",
+                        "file": "wiki/cases/effect.mdx"
                     },
                     {
-                        "id": "",
-                        "title": "",
-                        "icon": "",
-                        "file": ""
+                        "id": "cases",
+                        "title": "Кейс с яйцами",
+                        "icon": "https://api.etty.su/web/icons/wiki/cases/summon.svg",
+                        "file": "wiki/cases/eggs.mdx"
                     },
                     {
-                        "id": "",
-                        "title": "",
-                        "icon": "",
-                        "file": ""
+                        "id": "plash",
+                        "title": "Кейс с плащами",
+                        "icon": "https://api.etty.su/web/icons/wiki/cases/capes.svg",
+                        "file": "wiki/cases/plash.mdx"
                     },
                     {
-                        "id": "",
-                        "title": "",
-                        "icon": "",
-                        "file": ""
+                        "id": "daily",
+                        "title": "Ежедневный кейс",
+                        "icon": "https://api.etty.su/web/icons/wiki/battlepass/rewards.svg",
+                        "file": "wiki/cases/daily.mdx"
                     }
                 ]
             },
@@ -268,10 +268,16 @@
                 "children": [],
                 "files": [
                     {
-                        "id": "",
-                        "title": "",
-                        "icon": "",
-                        "file": ""
+                        "id": "guide",
+                        "title": "Как пользоваться",
+                        "icon": "https://api.etty.su/web/icons/wiki/brewery/cotel.svg",
+                        "file": "wiki/brewery/guide.mdx"
+                    },
+                    {
+                        "id": "recipes",
+                        "title": "Рецепты",
+                        "icon": "https://api.etty.su/web/icons/wiki/brewery/book.svg",
+                        "file": "wiki/brewery/recipes.mdx"
                     }
                 ]
             },
@@ -282,10 +288,40 @@
                 "children": [],
                 "files": [
                     {
-                        "id": "",
-                        "title": "",
-                        "icon": "",
-                        "file": ""
+                        "id": "simple",
+                        "title": "Обычные",
+                        "icon": "https://api.etty.su/web/icons/wiki/dbooks/common.svg",
+                        "file": "wiki/dbooks/simplebooks.mdx"
+                    },
+                    {
+                        "id": "unique",
+                        "title": "Уникальные",
+                        "icon": "https://api.etty.su/web/icons/wiki/dbooks/uniq.svg",
+                        "file": "wiki/dbooks/uniquebooks.mdx"
+                    },
+                    {
+                        "id": "elite",
+                        "title": "Элитные",
+                        "icon": "https://api.etty.su/web/icons/wiki/dbooks/elite.svg",
+                        "file": "wiki/dbooks/elitebooks.mdx"
+                    },
+                    {
+                        "id": "ultimate",
+                        "title": "Ультимативные",
+                        "icon": "https://api.etty.su/web/icons/wiki/dbooks/ultimate.svg",
+                        "file": "wiki/dbooks/ultimatebooks.mdx"
+                    },
+                    {
+                        "id": "legendary",
+                        "title": "Легендарные",
+                        "icon": "https://api.etty.su/web/icons/wiki/dbooks/legendary.svg",
+                        "file": "wiki/dbooks/legendarybooks.mdx"
+                    },
+                    {
+                        "id": "fabled",
+                        "title": "Мифические",
+                        "icon": "https://api.etty.su/web/icons/wiki/dbooks/mythycal.svg",
+                        "file": "wiki/dbooks/fabledbooks.mdx"
                     }
                 ]
             },
@@ -296,10 +332,58 @@
                 "children": [],
                 "files": [
                     {
-                        "id": "",
-                        "title": "",
-                        "icon": "",
-                        "file": ""
+                        "id": "emperor",
+                        "title": "EMPEROR",
+                        "icon": "https://api.etty.su/web/icons/wiki/donate/emperor.svg",
+                        "file": "wiki/donate/emperor.mdx"
+                    },
+                    {
+                        "id": "legend",
+                        "title": "LEGEND",
+                        "icon": "https://api.etty.su/web/icons/wiki/donate/legend.svg",
+                        "file": "wiki/donate/legend.mdx"
+                    },
+                    {
+                        "id": "samurai",
+                        "title": "SAMURAI",
+                        "icon": "https://api.etty.su/web/icons/wiki/donate/samurai.svg",
+                        "file": "wiki/donate/samurai.mdx"
+                    },
+                    {
+                        "id": "shinobi",
+                        "title": "SHINOBI",
+                        "icon": "https://api.etty.su/web/icons/wiki/donate/shinobi.svg",
+                        "file": "wiki/donate/shinobi.mdx"
+                    },
+                    {
+                        "id": "ghost",
+                        "title": "GHOST",
+                        "icon": "https://api.etty.su/web/icons/wiki/donate/ghost.svg",
+                        "file": "wiki/donate/ghost.mdx"
+                    },
+                    {
+                        "id": "shadow",
+                        "title": "SHADOW",
+                        "icon": "https://api.etty.su/web/icons/wiki/donate/shadow.svg",
+                        "file": "wiki/donate/shadow.mdx"
+                    },
+                    {
+                        "id": "premium",
+                        "title": "PREMIUM",
+                        "icon": "https://api.etty.su/web/icons/wiki/donate/premium.svg",
+                        "file": "wiki/donate/premium.mdx"
+                    },
+                    {
+                        "id": "vip",
+                        "title": "VIP",
+                        "icon": "https://api.etty.su/web/icons/wiki/donate/vip.svg",
+                        "file": "wiki/donate/vip.mdx"
+                    },
+                    {
+                        "id": "player",
+                        "title": "PLAYER",
+                        "icon": "https://api.etty.su/web/icons/wiki/donate/player.svg",
+                        "file": "wiki/donate/player.mdx"
                     }
                 ]
             }
