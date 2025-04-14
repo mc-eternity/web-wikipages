@@ -1,0 +1,317 @@
+[
+    {
+        "id": "rules",
+        "title": "Правила",
+        "icon": "https://api.etty.su/web/icons/rules/rules-codex.svg",
+        "children": [],
+        "files": [
+            {
+                "id": "modifications",
+                "title": "Модификации клиента",
+                "icon": "https://api.etty.su/web/icons/modifications.svg"
+            },
+            {
+                "id": "codex",
+                "title": "Процедурный кодекс проекта",
+                "icon": "https://api.etty.su/web/icons/rules/rules-codex.svg",
+                "file": "rules/codex.mdx"
+            },
+            {
+                "id": "rules",
+                "title": "Общие правила",
+                "icon": "https://api.etty.su/web/icons/rules/rules-rules.svg",
+                "file": "rules/base-rules.mdx"
+            },
+            {
+                "id": "survival",
+                "title": "Правила режима Выживание",
+                "icon": "https://api.etty.su/web/icons/rules/rules-survival.svg",
+                "file": "rules/survival-rules.mdx"
+            },
+            {
+                "id": "media",
+                "title": "Правила социальных сетей",
+                "icon": "https://api.etty.su/web/icons/rules/rules-media.svg",
+                "file": "rules/media-rules.mdx"
+            },
+            {
+                "id": "codex-06-03-2025",
+                "title": "Процедурный кодекс проекта (утратил силу 06.03.2025)",
+                "hidden": true,
+                "file": "rules/old/codex/codex-06-03-2025.mdx"
+            },
+            {
+                "id": "codex-12-03-2025",
+                "title": "Процедурный кодекс проекта (утратил силу 12.03.2025)",
+                "hidden": true,
+                "file": "rules/old/codex/codex-12-03-2025.mdx"
+            },
+            {
+                "id": "media-05-03-2025",
+                "title": "Правила социальных сетей (утратил силу 05.03.2025)",
+                "hidden": true,
+                "file": "rules/old/media/media-rules-05-03-2025.mdx"
+            },
+            {
+                "id": "survival-04-03-2025",
+                "title": "Правила режима Выживание (утратил силу 04.03.2025)",
+                "hidden": true,
+                "file": "rules/old/survival/survival-rules-04-03-2025.mdx"
+            },
+            {
+                "id": "survival-05-03-2025",
+                "title": "Правила режима Выживание (утратил силу 05.03.2025)",
+                "hidden": true,
+                "file": "rules/old/survival/survival-rules-05-03-2025.mdx"
+            },
+            {
+                "id": "survival-09-03-2025",
+                "title": "Правила режима Выживание (утратил силу 09.03.2025)",
+                "hidden": true,
+                "file": "rules/old/survival/survival-rules-09-03-2025.mdx"
+            },
+            {
+                "id": "survival-25-03-2025",
+                "title": "Правила режима Выживание (утратил силу 25.03.2025)",
+                "hidden": true,
+                "file": "rules/old/survival/survival-rules-25-03-2025.mdx"
+            },
+            {
+                "id": "survival-28-03-2025",
+                "title": "Правила режима Выживание (утратил силу 28.03.2025)",
+                "hidden": true,
+                "file": "rules/old/survival/survival-rules-28-03-2025.mdx"
+            },
+            {
+                "id": "rules-05-03-2025",
+                "title": "Общие правила (утратил силу 05.03.2025)",
+                "hidden": true,
+                "file": "rules/old/base/rules-05-03-2025.mdx"
+            },
+            {
+                "id": "rules-12-03-2025",
+                "title": "Общие правила (утратил силу 12.03.2025)",
+                "hidden": true,
+                "file": "rules/old/base/rules-12-03-2025.mdx"
+            }
+        ]
+    },
+    {
+        "id": "legal",
+        "title": "Документы",
+        "icon": "https://api.etty.su/web/icons/legal/legal4.svg",
+        "children": [],
+        "files": [
+            {
+                "id": "offer",
+                "title": "Договор оферты",
+                "icon": "https://api.etty.su/web/icons/legal/legal3.svg",
+                "file": "docs/oferta_eternity.mdx"
+            },
+            {
+                "id": "license",
+                "title": "Лицензионное соглашение",
+                "icon": "https://api.etty.su/web/icons/legal/legal1.svg",
+                "file": "docs/license.mdx"
+            },
+            {
+                "id": "termsofuse",
+                "title": "Пользовательское соглашение",
+                "icon": "https://api.etty.su/web/icons/legal/legal1.svg",
+                "file": "docs/termsofuse.mdx"
+            },
+            {
+                "id": "privacy-policy",
+                "title": "Политика конфиденциальности",
+                "icon": "https://api.etty.su/web/icons/legal/legal2.svg",
+                "file": "docs/privacy-policy.mdx"
+            },
+            {
+                "id": "cookies-policy",
+                "title": "Политика использования файлов cookie",
+                "icon": "https://api.etty.su/web/icons/legal/legal4.svg",
+                "file": "docs/cookies_policy.mdx"
+            },
+            {
+                "id": "offer-13-04-2025",
+                "title": "Догофор оферты (утратил силу 13.04.2025)",
+                "hidden": true,
+                "file": "docs/old/oferta/oferta-13.04.2025.mdx"
+            },
+            {
+                "id": "privacy-13-04-2025",
+                "title": "Политика конфиденциальности (утратил силу 13.04.2025)",
+                "hidden": true,
+                "file": "docs/old/privacy/privacy-13.04.2025.mdx"
+            }
+        ]
+    },
+    {
+        "id": "wiki-survival",
+        "title": "Вики Выживание",
+        "icon": "https://api.etty.su/web/icons/wikipedia.svg",
+        "children": [
+            {
+                "id": "start",
+                "title": "Начало игры",
+                "icon": "https://api.etty.su/web/icons/wiki/start/dirt.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "account",
+                        "title": "Ваш аккаунт",
+                        "icon": "https://api.etty.su/web/icons/wiki/start/cookie.svg",
+                        "file": "wiki/start/acc.mdx"
+                    },
+                    {
+                        "id": "regions",
+                        "title": "Регионы и приваты",
+                        "icon": "https://api.etty.su/web/icons/wiki/start/wand.svg",
+                        "file": "wiki/start/regions.mdx"
+                    }
+                ]
+            },
+            {
+                "id": "battlepass",
+                "title": "Боевой Пропуск",
+                "icon": "https://api.etty.su/web/icons/wiki/battlepass/bpass.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "info",
+                        "title": "Информация",
+                        "icon": "https://api.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/battlepass/info.mdx"
+                    },
+                    {
+                        "id": "quests",
+                        "title": "Квесты",
+                        "icon": "https://api.etty.su/web/icons/wiki/battlepass/quests.svg",
+                        "file": "wiki/battlepass/quests.mdx"
+                    },
+                    {
+                        "id": "rewards",
+                        "title": "Награды",
+                        "icon": "https://api.etty.su/web/icons/wiki/battlepass/rewards.svg",
+                        "file": "wiki/battlepass/rewards.mdx"
+                    }
+                ]
+            },
+            {
+                "id": "clans",
+                "title": "Кланы",
+                "icon": "https://api.etty.su/web/icons/wiki/clans/clans.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "info",
+                        "title": "Информация",
+                        "icon": "https://api.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/clans/inform.mdx"
+                    },
+                    {
+                        "id": "level",
+                        "title": "Уровни клана",
+                        "icon": "https://api.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/clans/level.mdx"
+                    }
+                ]
+            },
+            {
+                "id": "cases",
+                "title": "Кейсы",
+                "icon": "https://api.etty.su/web/icons/wiki/cases/book.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "",
+                        "title": "",
+                        "icon": "",
+                        "file": ""
+                    },
+                    {
+                        "id": "",
+                        "title": "",
+                        "icon": "",
+                        "file": ""
+                    },
+                    {
+                        "id": "",
+                        "title": "",
+                        "icon": "",
+                        "file": ""
+                    },
+                    {
+                        "id": "",
+                        "title": "",
+                        "icon": "",
+                        "file": ""
+                    },
+                    {
+                        "id": "",
+                        "title": "",
+                        "icon": "",
+                        "file": ""
+                    },
+                    {
+                        "id": "",
+                        "title": "",
+                        "icon": "",
+                        "file": ""
+                    }
+                ]
+            },
+            {
+                "id": "brewery",
+                "title": "Brewery",
+                "icon": "https://api.etty.su/web/icons/wiki/brewery/barrel.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "",
+                        "title": "",
+                        "icon": "",
+                        "file": ""
+                    }
+                ]
+            },
+            {
+                "id": "dbooks",
+                "title": "Зачарования",
+                "icon": "https://api.etty.su/web/icons/wiki/dbooks/mythycal.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "",
+                        "title": "",
+                        "icon": "",
+                        "file": ""
+                    }
+                ]
+            },
+            {
+                "id": "donate",
+                "title": "Привилегии",
+                "icon": "https://api.etty.su/web/icons/wiki/donate/player.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "",
+                        "title": "",
+                        "icon": "",
+                        "file": ""
+                    }
+                ]
+            }
+        ],
+        "files": []
+    },
+    {
+        "id": "wiki-polit",
+        "title": "Вики Полита",
+        "icon": "https://api.etty.su/web/icons/wikipedia.svg",
+        "hidden": true,
+        "children": [],
+        "files": []
+    }
+]
