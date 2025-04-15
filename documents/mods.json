@@ -1,0 +1,521 @@
+[
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Advancements Enlarger",
+        "url": "https://curseforge.com/minecraft/mc-mods/advancements-enlarger",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Badlion client",
+        "url": "https://client.badlion.net/ru",
+        "tags": [
+            "client",
+            "клиент"
+        ]
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Better Dropped Items",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/better-dropped-items",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "BetterF3",
+        "url": "https://modrinth.com/mod/betterf3",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Blur (Fabric)",
+        "url": "https://modrinth.com/mod/blur-fabric",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Bobby",
+        "url": "https://modrinth.com/mod/bobby",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Chat Heads",
+        "url": "https://modrinth.com/mod/chat-heads",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Chat up",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/chat-up",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Colormatic",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/colormatic",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "CraftPresence",
+        "url": "https://modrinth.com/mod/craftpresence",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Essential Mod",
+        "url": "https://modrinth.com/mod/essential",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Fabric API",
+        "url": "https://modrinth.com/mod/fabric-api",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Quilted Fabric API (QFAPI)",
+        "url": "https://modrinth.com/mod/qsl",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Held item info",
+        "url": "https://modrinth.com/mod/held-item-info",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Just Enough Items",
+        "url": "https://modrinth.com/mod/jei",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "LambDynamicLights",
+        "url": "https://modrinth.com/mod/lambdynamiclights",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Light Overlay",
+        "url": "https://modrinth.com/mod/light-overlay",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Lithium",
+        "url": "https://modrinth.com/mod/lithium",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Logical Zoom",
+        "url": "https://modrinth.com/mod/logical-zoom",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Mini hud",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/minihud",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Mod Menu",
+        "url": "https://modrinth.com/mod/modmenu",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Mod Updater",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/modupdater",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Not Enough Crashes",
+        "url": "https://modrinth.com/mod/notenoughcrashes",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "OffersHUD",
+        "url": "https://modrinth.com/mod/offershud",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "OptiFabric",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/optifabric",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "OptiFine",
+        "url": "https://optifine.net/downloads",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Phosphor",
+        "url": "https://modrinth.com/mod/phosphor",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Pochatok",
+        "url": "https://modrinth.com/mod/pochatok",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Presence Footsteps",
+        "url": "https://modrinth.com/mod/presence-footsteps",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Shulker Tooltip",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/shulker-tooltip",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Smooth Boot",
+        "url": "https://modrinth.com/mod/smoothboot-fabric",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Stendhal",
+        "url": "https://modrinth.com/mod/stendhal",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Sodium",
+        "url": "https://modrinth.com/mod/sodium",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "StepUpNext",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/stepupnext",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "mod",
+        "name": "Twitch Chat Bridge",
+        "url": "https://modrinth.com/mod/twitch-chat",
+        "tags": []
+    },
+    {
+        "allow": true,
+        "type": "rp",
+        "name": "Ресурспаки также являются модификацией. Разрешено устанавливать любые ресурспаки, кроме тех, что указаны в списке запрещённых.",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Auto Tool (Пример: Авто-тотем, Авто замена и другие)",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Cheat mods",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "AFKPeace",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Aristois",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Bedrock Miner",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Better PVP (Все версии)",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "BetterClicker",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Bridging Mod",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Модификации, выполняющие действия за игрока",
+        "url": " ",
+        "tags": [],
+        "description": "ИИ, принтер и так далее"
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "ClientCommands",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "CMDCam",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Elytra Utilities",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "FindMe",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Impact",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Inertia",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Inventory Plus",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "InvMove",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "ItemSwapper",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Jello",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "LavaClearView",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Librarian Trade Finder",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "MultiConnect",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "NoFog",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "SeedCracker",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Sigma",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Trajectory Preview",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Tweakeroo",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Litematica",
+        "url": " ",
+        "tags": [
+            "schematica"
+        ]
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Wall-Jump",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Wurst",
+        "url": " ",
+        "tags": [
+            "client",
+            "клиент"
+        ]
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Baritone",
+        "url": " ",
+        "tags": [
+            "client",
+            "клиент"
+        ]
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Freecam",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "Replay Mod",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "rp",
+        "name": "Чит-модификации (любого вида)",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "rp",
+        "name": "X-ray модификации (любого вида)",
+        "url": " ",
+        "tags": []
+    },
+    {
+        "allow": false,
+        "type": "mod",
+        "name": "X-ray",
+        "url": " ",
+        "tags": [
+            "client",
+            "клиент"
+        ]
+    }
+]
