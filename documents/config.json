@@ -388,13 +388,7 @@
                 ]
             }
         ],
-        "files": [
-            {
-                "id": "modifications",
-                "title": "Модификации клиента",
-                "icon": "https://s3.etty.su/web/icons/modifications.svg"
-            }
-        ]
+        "files": []
     },
     {
         "id": "wiki-polit",
