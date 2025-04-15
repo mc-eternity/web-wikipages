@@ -2,36 +2,36 @@
     {
         "id": "rules",
         "title": "Правила",
-        "icon": "https://api.etty.su/web/icons/rules/rules-codex.svg",
+        "icon": "https://s3.etty.su/web/icons/rules/rules-codex.svg",
         "children": [],
         "files": [
             {
                 "id": "modifications",
                 "title": "Модификации клиента",
-                "icon": "https://api.etty.su/web/icons/modifications.svg"
+                "icon": "https://s3.etty.su/web/icons/modifications.svg"
             },
             {
                 "id": "codex",
                 "title": "Процедурный кодекс проекта",
-                "icon": "https://api.etty.su/web/icons/rules/rules-codex.svg",
+                "icon": "https://s3.etty.su/web/icons/rules/rules-codex.svg",
                 "file": "rules/codex.mdx"
             },
             {
                 "id": "rules",
                 "title": "Общие правила",
-                "icon": "https://api.etty.su/web/icons/rules/rules-rules.svg",
+                "icon": "https://s3.etty.su/web/icons/rules/rules-rules.svg",
                 "file": "rules/base-rules.mdx"
             },
             {
                 "id": "survival",
                 "title": "Правила режима Выживание",
-                "icon": "https://api.etty.su/web/icons/rules/rules-survival.svg",
+                "icon": "https://s3.etty.su/web/icons/rules/rules-survival.svg",
                 "file": "rules/survival-rules.mdx"
             },
             {
                 "id": "media",
                 "title": "Правила социальных сетей",
-                "icon": "https://api.etty.su/web/icons/rules/rules-media.svg",
+                "icon": "https://s3.etty.su/web/icons/rules/rules-media.svg",
                 "file": "rules/media-rules.mdx"
             },
             {
@@ -99,37 +99,37 @@
     {
         "id": "legal",
         "title": "Документы",
-        "icon": "https://api.etty.su/web/icons/legal/legal4.svg",
+        "icon": "https://s3.etty.su/web/icons/legal/legal4.svg",
         "children": [],
         "files": [
             {
                 "id": "offer",
                 "title": "Договор оферты",
-                "icon": "https://api.etty.su/web/icons/legal/legal3.svg",
+                "icon": "https://s3.etty.su/web/icons/legal/legal3.svg",
                 "file": "docs/oferta_eternity.mdx"
             },
             {
                 "id": "license",
                 "title": "Лицензионное соглашение",
-                "icon": "https://api.etty.su/web/icons/legal/legal1.svg",
+                "icon": "https://s3.etty.su/web/icons/legal/legal1.svg",
                 "file": "docs/license.mdx"
             },
             {
                 "id": "termsofuse",
                 "title": "Пользовательское соглашение",
-                "icon": "https://api.etty.su/web/icons/legal/legal1.svg",
+                "icon": "https://s3.etty.su/web/icons/legal/legal1.svg",
                 "file": "docs/termsofuse.mdx"
             },
             {
                 "id": "privacy-policy",
                 "title": "Политика конфиденциальности",
-                "icon": "https://api.etty.su/web/icons/legal/legal2.svg",
+                "icon": "https://s3.etty.su/web/icons/legal/legal2.svg",
                 "file": "docs/privacy-policy.mdx"
             },
             {
                 "id": "cookies-policy",
                 "title": "Политика использования файлов cookie",
-                "icon": "https://api.etty.su/web/icons/legal/legal4.svg",
+                "icon": "https://s3.etty.su/web/icons/legal/legal4.svg",
                 "file": "docs/cookies_policy.mdx"
             },
             {
@@ -149,24 +149,24 @@
     {
         "id": "wiki-survival",
         "title": "Вики Выживание",
-        "icon": "https://api.etty.su/web/icons/wikipedia.svg",
+        "icon": "https://s3.etty.su/web/icons/wikipedia.svg",
         "children": [
             {
                 "id": "start",
                 "title": "Начало игры",
-                "icon": "https://api.etty.su/web/icons/wiki/start/dirt.svg",
+                "icon": "https://s3.etty.su/web/icons/wiki/start/dirt.svg",
                 "children": [],
                 "files": [
                     {
                         "id": "account",
                         "title": "Ваш аккаунт",
-                        "icon": "https://api.etty.su/web/icons/wiki/start/cookie.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
                         "file": "wiki/start/acc.mdx"
                     },
                     {
                         "id": "regions",
                         "title": "Регионы и приваты",
-                        "icon": "https://api.etty.su/web/icons/wiki/start/wand.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/start/wand.svg",
                         "file": "wiki/start/regions.mdx"
                     }
                 ]
@@ -174,25 +174,25 @@
             {
                 "id": "battlepass",
                 "title": "Боевой Пропуск",
-                "icon": "https://api.etty.su/web/icons/wiki/battlepass/bpass.svg",
+                "icon": "https://s3.etty.su/web/icons/wiki/battlepass/bpass.svg",
                 "children": [],
                 "files": [
                     {
                         "id": "info",
                         "title": "Информация",
-                        "icon": "https://api.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/battlepass/info.mdx"
                     },
                     {
                         "id": "quests",
                         "title": "Квесты",
-                        "icon": "https://api.etty.su/web/icons/wiki/battlepass/quests.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/quests.svg",
                         "file": "wiki/battlepass/quests.mdx"
                     },
                     {
                         "id": "rewards",
                         "title": "Награды",
-                        "icon": "https://api.etty.su/web/icons/wiki/battlepass/rewards.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/rewards.svg",
                         "file": "wiki/battlepass/rewards.mdx"
                     }
                 ]
@@ -200,19 +200,19 @@
             {
                 "id": "clans",
                 "title": "Кланы",
-                "icon": "https://api.etty.su/web/icons/wiki/clans/clans.svg",
+                "icon": "https://s3.etty.su/web/icons/wiki/clans/clans.svg",
                 "children": [],
                 "files": [
                     {
                         "id": "info",
                         "title": "Информация",
-                        "icon": "https://api.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/clans/inform.mdx"
                     },
                     {
                         "id": "level",
                         "title": "Уровни клана",
-                        "icon": "https://api.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/clans/level.mdx"
                     }
                 ]
@@ -220,43 +220,43 @@
             {
                 "id": "cases",
                 "title": "Кейсы",
-                "icon": "https://api.etty.su/web/icons/wiki/cases/book.svg",
+                "icon": "https://s3.etty.su/web/icons/wiki/cases/book.svg",
                 "children": [],
                 "files": [
                     {
                         "id": "donate",
                         "title": "Кейс с донатом",
-                        "icon": "https://api.etty.su/web/icons/wiki/cases/donate.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/cases/donate.svg",
                         "file": "wiki/cases/donate.mdx"
                     },
                     {
                         "id": "books",
                         "title": "Кейс с книгами",
-                        "icon": "https://api.etty.su/web/icons/wiki/cases/book.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/cases/book.svg",
                         "file": "wiki/cases/books.mdx"
                     },
                     {
                         "id": "effect",
                         "title": "Кейс с эффектами",
-                        "icon": "https://api.etty.su/web/icons/wiki/cases/effects.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/cases/effects.svg",
                         "file": "wiki/cases/effect.mdx"
                     },
                     {
                         "id": "cases",
                         "title": "Кейс с яйцами",
-                        "icon": "https://api.etty.su/web/icons/wiki/cases/summon.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/cases/summon.svg",
                         "file": "wiki/cases/eggs.mdx"
                     },
                     {
                         "id": "plash",
                         "title": "Кейс с плащами",
-                        "icon": "https://api.etty.su/web/icons/wiki/cases/capes.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/cases/capes.svg",
                         "file": "wiki/cases/plash.mdx"
                     },
                     {
                         "id": "daily",
                         "title": "Ежедневный кейс",
-                        "icon": "https://api.etty.su/web/icons/wiki/battlepass/rewards.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/rewards.svg",
                         "file": "wiki/cases/daily.mdx"
                     }
                 ]
@@ -264,19 +264,19 @@
             {
                 "id": "brewery",
                 "title": "Brewery",
-                "icon": "https://api.etty.su/web/icons/wiki/brewery/barrel.svg",
+                "icon": "https://s3.etty.su/web/icons/wiki/brewery/barrel.svg",
                 "children": [],
                 "files": [
                     {
                         "id": "guide",
                         "title": "Как пользоваться",
-                        "icon": "https://api.etty.su/web/icons/wiki/brewery/cotel.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/brewery/cotel.svg",
                         "file": "wiki/brewery/guide.mdx"
                     },
                     {
                         "id": "recipes",
                         "title": "Рецепты",
-                        "icon": "https://api.etty.su/web/icons/wiki/brewery/book.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/brewery/book.svg",
                         "file": "wiki/brewery/recipes.mdx"
                     }
                 ]
@@ -284,43 +284,43 @@
             {
                 "id": "dbooks",
                 "title": "Зачарования",
-                "icon": "https://api.etty.su/web/icons/wiki/dbooks/mythycal.svg",
+                "icon": "https://s3.etty.su/web/icons/wiki/dbooks/mythycal.svg",
                 "children": [],
                 "files": [
                     {
                         "id": "simple",
                         "title": "Обычные",
-                        "icon": "https://api.etty.su/web/icons/wiki/dbooks/common.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/dbooks/common.svg",
                         "file": "wiki/dbooks/simplebooks.mdx"
                     },
                     {
                         "id": "unique",
                         "title": "Уникальные",
-                        "icon": "https://api.etty.su/web/icons/wiki/dbooks/uniq.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/dbooks/uniq.svg",
                         "file": "wiki/dbooks/uniquebooks.mdx"
                     },
                     {
                         "id": "elite",
                         "title": "Элитные",
-                        "icon": "https://api.etty.su/web/icons/wiki/dbooks/elite.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/dbooks/elite.svg",
                         "file": "wiki/dbooks/elitebooks.mdx"
                     },
                     {
                         "id": "ultimate",
                         "title": "Ультимативные",
-                        "icon": "https://api.etty.su/web/icons/wiki/dbooks/ultimate.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/dbooks/ultimate.svg",
                         "file": "wiki/dbooks/ultimatebooks.mdx"
                     },
                     {
                         "id": "legendary",
                         "title": "Легендарные",
-                        "icon": "https://api.etty.su/web/icons/wiki/dbooks/legendary.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/dbooks/legendary.svg",
                         "file": "wiki/dbooks/legendarybooks.mdx"
                     },
                     {
                         "id": "fabled",
                         "title": "Мифические",
-                        "icon": "https://api.etty.su/web/icons/wiki/dbooks/mythycal.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/dbooks/mythycal.svg",
                         "file": "wiki/dbooks/fabledbooks.mdx"
                     }
                 ]
@@ -328,61 +328,61 @@
             {
                 "id": "donate",
                 "title": "Привилегии",
-                "icon": "https://api.etty.su/web/icons/wiki/donate/player.svg",
+                "icon": "https://s3.etty.su/web/icons/wiki/donate/player.svg",
                 "children": [],
                 "files": [
                     {
                         "id": "emperor",
                         "title": "EMPEROR",
-                        "icon": "https://api.etty.su/web/icons/wiki/donate/emperor.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/donate/emperor.svg",
                         "file": "wiki/donate/emperor.mdx"
                     },
                     {
                         "id": "legend",
                         "title": "LEGEND",
-                        "icon": "https://api.etty.su/web/icons/wiki/donate/legend.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/donate/legend.svg",
                         "file": "wiki/donate/legend.mdx"
                     },
                     {
                         "id": "samurai",
                         "title": "SAMURAI",
-                        "icon": "https://api.etty.su/web/icons/wiki/donate/samurai.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/donate/samurai.svg",
                         "file": "wiki/donate/samurai.mdx"
                     },
                     {
                         "id": "shinobi",
                         "title": "SHINOBI",
-                        "icon": "https://api.etty.su/web/icons/wiki/donate/shinobi.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/donate/shinobi.svg",
                         "file": "wiki/donate/shinobi.mdx"
                     },
                     {
                         "id": "ghost",
                         "title": "GHOST",
-                        "icon": "https://api.etty.su/web/icons/wiki/donate/ghost.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/donate/ghost.svg",
                         "file": "wiki/donate/ghost.mdx"
                     },
                     {
                         "id": "shadow",
                         "title": "SHADOW",
-                        "icon": "https://api.etty.su/web/icons/wiki/donate/shadow.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/donate/shadow.svg",
                         "file": "wiki/donate/shadow.mdx"
                     },
                     {
                         "id": "premium",
                         "title": "PREMIUM",
-                        "icon": "https://api.etty.su/web/icons/wiki/donate/premium.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/donate/premium.svg",
                         "file": "wiki/donate/premium.mdx"
                     },
                     {
                         "id": "vip",
                         "title": "VIP",
-                        "icon": "https://api.etty.su/web/icons/wiki/donate/vip.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/donate/vip.svg",
                         "file": "wiki/donate/vip.mdx"
                     },
                     {
                         "id": "player",
                         "title": "PLAYER",
-                        "icon": "https://api.etty.su/web/icons/wiki/donate/player.svg",
+                        "icon": "https://s3.etty.su/web/icons/wiki/donate/player.svg",
                         "file": "wiki/donate/player.mdx"
                     }
                 ]
@@ -393,7 +393,7 @@
     {
         "id": "wiki-polit",
         "title": "Вики Полита",
-        "icon": "https://api.etty.su/web/icons/wikipedia.svg",
+        "icon": "https://s3.etty.su/web/icons/wikipedia.svg",
         "hidden": true,
         "children": [],
         "files": []
