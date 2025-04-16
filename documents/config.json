@@ -4,29 +4,34 @@
         "title": "Правила",
         "icon": "https://s3.etty.su/web/icons/rules/rules-codex.svg",
         "children": [],
+        "description": "Всем привет! Как дела? Я не хсосала на пункте выдачи товаров, сотрудники ужасные.",
         "files": [
             {
                 "id": "modifications",
                 "title": "Модификации клиента",
-                "icon": "https://s3.etty.su/web/navicons/rules/mods2.webp"
+                "icon": "https://s3.etty.su/web/navicons/rules/mods2.webp",
+                "description": "Всем привет! Как дела? Я не хсосала на пункте выдачи товаров, сотрудники ужасные."
             },
             {
                 "id": "codex",
                 "title": "Процедурный кодекс проекта",
                 "icon": "https://s3.etty.su/web/navicons/rules/mods2.webp",
-                "file": "rules/codex.mdx"
+                "file": "rules/codex.mdx",
+                "description": "Всем привет! Как дела? Я не хсосала на пункте выдачи товаров, сотрудники ужасные."
             },
             {
                 "id": "rules",
                 "title": "Общие правила",
                 "icon": "https://s3.etty.su/web/navicons/rules/mods2.webp",
-                "file": "rules/base-rules.mdx"
+                "file": "rules/base-rules.mdx",
+                "description": "Всем привет! Как дела? Я не хсосала на пункте выдачи товаров, сотрудники ужасные."
             },
             {
                 "id": "survival",
                 "title": "Правила режима Выживание",
                 "icon": "https://s3.etty.su/web/icons/rules/rules-survival.svg",
-                "file": "rules/survival-rules.mdx"
+                "file": "rules/survival-rules.mdx",
+                "description": "Всем привет! Как дела? Я не хсосала на пункте выдачи товаров, сотрудники ужасные."
             },
             {
                 "id": "media",
