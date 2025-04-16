@@ -8,18 +8,18 @@
             {
                 "id": "modifications",
                 "title": "Модификации клиента",
-                "icon": "https://s3.etty.su/web/icons/mods.webp"
+                "icon": "https://s3.etty.su/web/navicons/rules/mods.webp"
             },
             {
                 "id": "codex",
                 "title": "Процедурный кодекс проекта",
-                "icon": "https://s3.etty.su/web/icons/mods.webp",
+                "icon": "https://s3.etty.su/web/navicons/rules/mods.webp",
                 "file": "rules/codex.mdx"
             },
             {
                 "id": "rules",
                 "title": "Общие правила",
-                "icon": "https://s3.etty.su/web/icons/mods.webp",
+                "icon": "https://s3.etty.su/web/navicons/rules/mods.webp",
                 "file": "rules/base-rules.mdx"
             },
             {
