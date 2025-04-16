@@ -13,13 +13,13 @@
             {
                 "id": "codex",
                 "title": "Процедурный кодекс проекта",
-                "icon": "https://s3.etty.su/web/icons/rules/rules-codex.svg",
+                "icon": "https://s3.etty.su/web/icons/modifications.webp",
                 "file": "rules/codex.mdx"
             },
             {
                 "id": "rules",
                 "title": "Общие правила",
-                "icon": "https://s3.etty.su/web/icons/rules/rules-rules.svg",
+                "icon": "https://s3.etty.su/web/icons/modifications.webp",
                 "file": "rules/base-rules.mdx"
             },
             {
