@@ -138,16 +138,46 @@
                 "file": "docs/cookies_policy.mdx"
             },
             {
+                "id": "promo",
+                "title": "Акции и промокоды",
+                "icon": "https://s3.etty.su/web/icons/legal/legal4.svg",
+                "file": "docs/promo.mdx"
+            },
+            {
                 "id": "offer-13-04-2025",
                 "title": "Догофор оферты (утратил силу 13.04.2025)",
                 "hidden": true,
                 "file": "docs/old/oferta/oferta-13.04.2025.mdx"
             },
             {
+                "id": "oferta-21-04-2025",
+                "title": "Догофор оферты (утратил силу 21.04.2025)",
+                "hidden": true,
+                "file": "docs/old/oferta/oferta-21.04.2025.mdx"
+            },
+            {
+                "id": "license-21-04-2025",
+                "title": "Лицензионное соглашение (утратил силу 21.04.2025)",
+                "hidden": true,
+                "file": "docs/old/license/license-21.04.2025"
+            },
+            {
+                "id": "cookie-21-04-2025",
+                "title": "Политика cookie (утратил силу 21.04.2025)",
+                "hidden": true,
+                "file": "docs/old/cookie/cookie-21.04.2025"
+            },
+            {
                 "id": "privacy-13-04-2025",
                 "title": "Политика конфиденциальности (утратил силу 13.04.2025)",
                 "hidden": true,
                 "file": "docs/old/privacy/privacy-13.04.2025.mdx"
+            },
+            {
+                "id": "privacy-21-04-2025",
+                "title": "Политика конфиденциальности (утратил силу 21.04.2025)",
+                "hidden": true,
+                "file": "docs/old/privacy/privacy-21.04.2025.mdx"
             }
         ]
     },
