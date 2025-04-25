@@ -14,7 +14,7 @@
             },
             {
                 "id": "codex",
-                "title": "Процедурный кодекс проекта",
+                "title": "Процедурный кодекс",
                 "icon": "https://s3.etty.su/web/navicons/rules/mods2.webp",
                 "file": "rules/codex.mdx",
                 "description": "Как устроен проект: роли, процедуры, жалобы, разбирательства и внутренняя иерархия."
@@ -42,7 +42,7 @@
             },
             {
                 "id": "media",
-                "title": "Правила социальных сетей",
+                "title": "Правила соц-сетей",
                 "icon": "https://s3.etty.su/web/icons/rules/rules-media.svg",
                 "file": "rules/media-rules.mdx",
                 "description": "Коммуникация за пределами сервера: как вести себя в Discord, Telegram и ВКонтакте."
@@ -124,21 +124,21 @@
             },
             {
                 "id": "license",
-                "title": "Лицензионное соглашение",
+                "title": "Лиц. соглашение",
                 "icon": "https://s3.etty.su/web/icons/legal/legal1.svg",
                 "file": "docs/license.mdx",
                 "description": "Правила использования нематериальной функциональности проекта. Что такое лицензия, на каких условиях выдана и как её можно использовать."
             },
             {
                 "id": "privacy-policy",
-                "title": "Политика конфиденциальности",
+                "title": "П. конфиденциальности",
                 "icon": "https://s3.etty.su/web/icons/legal/legal2.svg",
                 "file": "docs/privacy-policy.mdx",
                 "description": "Как мы обрабатываем, храним и защищаем твои персональные данные."
             },
             {
                 "id": "cookies-policy",
-                "title": "Политика использования файлов cookie",
+                "title": "Файлы cookie",
                 "icon": "https://s3.etty.su/web/icons/legal/legal4.svg",
                 "file": "docs/cookies_policy.mdx",
                 "description": "Информация о технологиях отслеживания: cookie, локальное хранилище, аналитика и твоё право на выбор."
