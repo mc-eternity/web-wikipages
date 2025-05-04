@@ -4,7 +4,6 @@
         "title": "Правила",
         "icon": "https://s3.etty.su/web/icons/rules/rules-codex.svg",
         "children": [],
-        "description": "Всем привет! Как дела? Я не хсосала на пункте выдачи товаров, сотрудники ужасные.",
         "files": [
             {
                 "id": "modifications",
@@ -46,66 +45,6 @@
                 "icon": "https://s3.etty.su/web/icons/rules/rules-media.svg",
                 "file": "rules/media-rules.mdx",
                 "description": "Коммуникация за пределами сервера: как вести себя в Discord, Telegram и ВКонтакте."
-            },
-            {
-                "id": "codex-06-03-2025",
-                "title": "Процедурный кодекс проекта (утратил силу 06.03.2025)",
-                "hidden": true,
-                "file": "rules/old/codex/codex-06-03-2025.mdx"
-            },
-            {
-                "id": "codex-12-03-2025",
-                "title": "Процедурный кодекс проекта (утратил силу 12.03.2025)",
-                "hidden": true,
-                "file": "rules/old/codex/codex-12-03-2025.mdx"
-            },
-            {
-                "id": "media-05-03-2025",
-                "title": "Правила социальных сетей (утратил силу 05.03.2025)",
-                "hidden": true,
-                "file": "rules/old/media/media-rules-05-03-2025.mdx"
-            },
-            {
-                "id": "survival-04-03-2025",
-                "title": "Правила режима Выживание (утратил силу 04.03.2025)",
-                "hidden": true,
-                "file": "rules/old/survival/survival-rules-04-03-2025.mdx"
-            },
-            {
-                "id": "survival-05-03-2025",
-                "title": "Правила режима Выживание (утратил силу 05.03.2025)",
-                "hidden": true,
-                "file": "rules/old/survival/survival-rules-05-03-2025.mdx"
-            },
-            {
-                "id": "survival-09-03-2025",
-                "title": "Правила режима Выживание (утратил силу 09.03.2025)",
-                "hidden": true,
-                "file": "rules/old/survival/survival-rules-09-03-2025.mdx"
-            },
-            {
-                "id": "survival-25-03-2025",
-                "title": "Правила режима Выживание (утратил силу 25.03.2025)",
-                "hidden": true,
-                "file": "rules/old/survival/survival-rules-25-03-2025.mdx"
-            },
-            {
-                "id": "survival-28-03-2025",
-                "title": "Правила режима Выживание (утратил силу 28.03.2025)",
-                "hidden": true,
-                "file": "rules/old/survival/survival-rules-28-03-2025.mdx"
-            },
-            {
-                "id": "rules-05-03-2025",
-                "title": "Общие правила (утратил силу 05.03.2025)",
-                "hidden": true,
-                "file": "rules/old/base/rules-05-03-2025.mdx"
-            },
-            {
-                "id": "rules-12-03-2025",
-                "title": "Общие правила (утратил силу 12.03.2025)",
-                "hidden": true,
-                "file": "rules/old/base/rules-12-03-2025.mdx"
             }
         ]
     },
