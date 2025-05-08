@@ -197,13 +197,6 @@
                         "description": "Зачем вступать в клан и что это даёт."
                     },
                     {
-                        "id": "menu",
-                        "title": "Меню клана",
-                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
-                        "file": "wiki/clans/menu.mdx",
-                        "description": "Как управлять кланом."
-                    },
-                    {
                         "id": "level",
                         "title": "Уровни клана",
                         "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
@@ -416,3 +409,4 @@
         "children": [],
         "files": []
     }
+]
