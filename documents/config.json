@@ -105,13 +105,13 @@
                 "id": "license-21-04-2025",
                 "title": "Лицензионное соглашение (утратил силу 21.04.2025)",
                 "hidden": true,
-                "file": "docs/old/license/license-21.04.2025"
+                "file": "docs/old/license/license-21.04.2025.mdx"
             },
             {
                 "id": "cookie-21-04-2025",
                 "title": "Политика cookie (утратил силу 21.04.2025)",
                 "hidden": true,
-                "file": "docs/old/cookie/cookie-21.04.2025"
+                "file": "docs/old/cookie/cookie-21.04.2025.mdx"
             },
             {
                 "id": "privacy-13-04-2025",
