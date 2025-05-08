@@ -412,8 +412,65 @@
         "id": "wiki-polit",
         "title": "Вики Политический",
         "icon": "https://s3.etty.su/web/icons/wikipedia.svg",
-        "hidden": true,
-        "children": [],
-        "files": []
+        "children": [
+            {
+                "id": "information",
+                "title": "Основная Информация",
+                "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "bosses",
+                        "title": "Мини Боссы",
+                        "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
+                        "file": "wiki_political/bosses.mdx",
+                        "description": "Информация по всем мини боссам"
+                    },
+                    {
+                        "id": "buyer",
+                        "title": "Скупщики",
+                        "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
+                        "file": "wiki_political/buyer.mdx",
+                        "description": "Какие есть вариации скупки."
+                    }
+                ]
+            },
+            {
+                "id": "сountry",
+                "title": "Разбор механики стран",
+                "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "сountries",
+                        "title": "Страны",
+                        "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
+                        "file": "wiki_political/сountries.mdx",
+                        "description": "Механики и возможности."
+                    },
+                    {
+                        "id": "command",
+                        "title": "Команды",
+                        "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
+                        "file": "wiki_political/command.mdx",
+                        "description": "Подробная информация по командам."
+                    },
+                    {
+                        "id": "menu",
+                        "title": "Меню Страны",
+                        "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
+                        "file": "wiki_political/menu.mdx",
+                        "description": "Разбор меню страны."
+                    },
+                    {
+                        "id": "menu_city",
+                        "title": "Меню Города",
+                        "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
+                        "file": "wiki_political/menu_city.mdx",
+                        "description": "Разбор меню города."
+                    }
+                ]
+            }
+      
     }
 ]
