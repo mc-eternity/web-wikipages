@@ -412,7 +412,6 @@
         "id": "wiki-polit",
         "title": "Вики Политический",
         "icon": "https://s3.etty.su/web/icons/wikipedia.svg",
-        "hidden": true,
         "children": [
             {
                 "id": "information",
