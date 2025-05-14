@@ -4,7 +4,10 @@
         "type": "mod",
         "name": "Advancements Enlarger",
         "url": "https://curseforge.com/minecraft/mc-mods/advancements-enlarger",
-        "tags": []
+        "tags": [
+            "Адванцед",
+            "Энлангер"
+        ]
     },
     {
         "allow": true,
@@ -21,154 +24,240 @@
         "type": "mod",
         "name": "Better Dropped Items",
         "url": "https://www.curseforge.com/minecraft/mc-mods/better-dropped-items",
-        "tags": []
+        "tags": [
+            "Беттер",
+            "Дроппед",
+            "Айтемс"
+        ]
     },
     {
         "allow": true,
         "type": "mod",
         "name": "BetterF3",
         "url": "https://modrinth.com/mod/betterf3",
-        "tags": []
+        "tags": [
+            "Беттер",
+            "ф3",
+            "беттерф3",
+            "f3"
+        ]
     },
     {
         "allow": true,
         "type": "mod",
         "name": "Blur (Fabric)",
         "url": "https://modrinth.com/mod/blur-fabric",
-        "tags": []
+        "tags": [
+            "блюр",
+            "blur"
+        ]
     },
     {
         "allow": true,
         "type": "mod",
         "name": "Bobby",
         "url": "https://modrinth.com/mod/bobby",
-        "tags": []
+        "tags": [
+            "бобби",
+            "боб"
+        ]
     },
     {
         "allow": true,
         "type": "mod",
         "name": "Chat Heads",
         "url": "https://modrinth.com/mod/chat-heads",
-        "tags": []
+        "tags": [
+            "чат",
+            "головы",
+            "хедс",
+            "чат хедс"
+        ]
     },
     {
         "allow": true,
         "type": "mod",
         "name": "Chat up",
         "url": "https://www.curseforge.com/minecraft/mc-mods/chat-up",
-        "tags": []
+        "tags": [
+            "чат ап",
+            "чат",
+            "ап"
+        ]
     },
     {
         "allow": true,
         "type": "mod",
         "name": "Colormatic",
         "url": "https://www.curseforge.com/minecraft/mc-mods/colormatic",
-        "tags": []
+        "tags": [
+            "колорматик",
+            "колор"
+        ]
     },
     {
         "allow": true,
         "type": "mod",
         "name": "CraftPresence",
         "url": "https://modrinth.com/mod/craftpresence",
-        "tags": []
+        "tags": [
+            "крафтпрезенц",
+            "крафт"
+        ]
     },
     {
         "allow": true,
         "type": "mod",
         "name": "Essential Mod",
         "url": "https://modrinth.com/mod/essential",
-        "tags": []
+        "tags": [
+            "эссентиал",
+            "esential",
+            "эсентиал"
+        ]
     },
     {
         "allow": true,
         "type": "mod",
         "name": "Fabric API",
         "url": "https://modrinth.com/mod/fabric-api",
-        "tags": []
+        "tags": [
+            "фабрик апи",
+            "фабрик",
+            "апи"
+        ]
     },
     {
         "allow": true,
         "type": "mod",
         "name": "Quilted Fabric API (QFAPI)",
         "url": "https://modrinth.com/mod/qsl",
-        "tags": []
+        "tags": [
+            "фабрик апи",
+            "фабрик",
+            "апи",
+            "квалити"
+        ]
     },
     {
         "allow": true,
         "type": "mod",
         "name": "Held item info",
         "url": "https://modrinth.com/mod/held-item-info",
-        "tags": []
+        "tags": [
+            "хелд айтем инфо",
+            "айтем",
+            "инфо",
+            "хелд"
+        ]
     },
     {
         "allow": true,
         "type": "mod",
         "name": "Just Enough Items",
         "url": "https://modrinth.com/mod/jei",
-        "tags": []
+        "tags": [
+            "джаст",
+            "жаст",
+            "энаут"
+        ]
     },
     {
         "allow": true,
         "type": "mod",
         "name": "LambDynamicLights",
         "url": "https://modrinth.com/mod/lambdynamiclights",
-        "tags": []
+        "tags": [
+            "ламб динамик",
+            "динамик",
+            "ламб"
+        ]
     },
     {
         "allow": true,
         "type": "mod",
         "name": "Light Overlay",
         "url": "https://modrinth.com/mod/light-overlay",
-        "tags": []
+        "tags": [
+            "лайт оверлей",
+            "лайт",
+            "оверлей"
+        ]
     },
     {
         "allow": true,
         "type": "mod",
         "name": "Lithium",
         "url": "https://modrinth.com/mod/lithium",
-        "tags": []
+        "tags": [
+            "литиум"
+        ]
     },
     {
         "allow": true,
         "type": "mod",
         "name": "Logical Zoom",
         "url": "https://modrinth.com/mod/logical-zoom",
-        "tags": []
+        "tags": [
+            "ложикал зуум",
+            "зум",
+            "лоджикал"
+        ]
     },
     {
         "allow": true,
         "type": "mod",
         "name": "Mini hud",
         "url": "https://www.curseforge.com/minecraft/mc-mods/minihud",
-        "tags": []
+        "tags": [
+            "хаб",
+            "мини хаб",
+            "мини"
+        ]
     },
     {
         "allow": true,
         "type": "mod",
         "name": "Mod Menu",
         "url": "https://modrinth.com/mod/modmenu",
-        "tags": []
+        "tags": [
+            "мод меню",
+            "мод",
+            "меню"
+        ]
     },
     {
         "allow": true,
         "type": "mod",
         "name": "Mod Updater",
         "url": "https://www.curseforge.com/minecraft/mc-mods/modupdater",
-        "tags": []
+        "tags": [
+            "мод апдейтер",
+            "апдейтер",
+            "мод"
+        ]
     },
     {
         "allow": true,
         "type": "mod",
         "name": "Not Enough Crashes",
         "url": "https://modrinth.com/mod/notenoughcrashes",
-        "tags": []
+        "tags": [
+            "нот энаут крашес",
+            "крашес",
+            "нот"
+        ]
     },
     {
         "allow": true,
         "type": "mod",
         "name": "OffersHUD",
         "url": "https://modrinth.com/mod/offershud",
-        "tags": []
+        "tags": [
+            "офферс хаб",
+            "офферс",
+            "хаб"
+        ]
     },
     {
         "allow": true,
