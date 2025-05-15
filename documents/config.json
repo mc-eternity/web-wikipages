@@ -410,12 +410,12 @@
     },
     {
         "id": "wiki-polit",
-        "title": "Вики Политический",
+        "title": "Вики Полит",
         "icon": "https://s3.etty.su/web/icons/wikipedia.svg",
         "children": [
             {
                 "id": "information",
-                "title": "Основная Информация",
+                "title": "Информация",
                 "icon": "https://s3.etty.su/web/icons/wiki/start/dirt.svg",
                 "children": [],
                 "files": [
@@ -437,13 +437,13 @@
             },
             {
                 "id": "сountry",
-                "title": "Разбор механики стран",
+                "title": "Страна",
                 "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
                 "children": [],
                 "files": [
                     {
                         "id": "сountries",
-                        "title": "Страны",
+                        "title": "Управление",
                         "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
                         "file": "wiki_political/сountries.mdx",
                         "description": "Механики и возможности."
