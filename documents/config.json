@@ -51,20 +51,20 @@
     {
         "id": "legal",
         "title": "Документы",
-        "icon": "https://s3.etty.su/web/icons/legal/legal4.svg",
+        "icon": "https://s3.etty.su/web/icons/legal/2.webp",
         "children": [],
         "files": [
             {
                 "id": "oferta_eternity",
                 "title": "Договор оферты",
-                "icon": "https://s3.etty.su/web/icons/legal/1.svg",
+                "icon": "https://s3.etty.su/web/icons/legal/1.webp",
                 "file": "docs/oferta_eternity.mdx",
                 "description": "Публичный договор, регулирующий отношения между сторонами."
             },
             {
                 "id": "license",
                 "title": "Лиц. соглашение",
-                "icon": "https://s3.etty.su/web/icons/legal/legal1.svg",
+                "icon": "https://s3.etty.su/web/icons/legal/2.webp",
                 "file": "docs/license.mdx",
                 "description": "Правила использования нематериальной функциональности проекта."
             },
