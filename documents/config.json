@@ -21,7 +21,7 @@
             {
                 "id": "rules",
                 "title": "Общие правила",
-                "icon": "https://s3.etty.su/web/navicons/rules/mods2.webp",
+                "icon": "https://s3.etty.su/web/navicons/rules/1.webp",
                 "file": "rules/base-rules.mdx",
                 "description": "Базовые правила поведения для всех - что запрещено, как не быть забаненным."
             },
