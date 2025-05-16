@@ -35,14 +35,14 @@
             {
                 "id": "political",
                 "title": "Правила Политический",
-                "icon": "https://s3.etty.su/web/icons/rules/rules-survival.svg",
+                "icon": "https://s3.etty.su/web/icons/rules/5.webp",
                 "file": "rules/political-rules.mdx",
                 "description": "Особенности режима: механики, ограничения и внутриигровые нюансы."
             },
             {
                 "id": "media",
                 "title": "Правила соц-сетей",
-                "icon": "https://s3.etty.su/web/icons/rules/rules-media.svg",
+                "icon": "https://s3.etty.su/web/icons/rules/4.webp",
                 "file": "rules/media-rules.mdx",
                 "description": "Коммуникация за пределами сервера: как вести себя в Discord, Telegram и ВКонтакте."
             }
