@@ -23,7 +23,7 @@
                 "title": "Общие правила",
                 "icon": "https://s3.etty.su/web/icons/rules/1.webp",
                 "file": "rules/base-rules.mdx",
-                "description": "Базовые правила поведения для всех - что запрещено, как не быть забаненным."
+                "description": "Общие правила поведения для всех - что запрещено, как не быть забаненным."
             },
             {
                 "id": "survival",
