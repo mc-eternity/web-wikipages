@@ -57,7 +57,7 @@
             {
                 "id": "oferta_eternity",
                 "title": "Договор оферты",
-                "icon": "https://s3.etty.su/web/icons/legal/legal3.svg",
+                "icon": "https://s3.etty.su/web/icons/legal/1.svg",
                 "file": "docs/oferta_eternity.mdx",
                 "description": "Публичный договор, регулирующий отношения между сторонами."
             },
