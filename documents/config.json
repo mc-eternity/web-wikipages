@@ -2,7 +2,7 @@
     {
         "id": "rules",
         "title": "Правила",
-        "icon": "https://s3.etty.su/web/icons/rules/rules-codex.svg",
+        "icon": "https://s3.etty.su/web/icons/rules/1.webp",
         "children": [],
         "files": [
             {
@@ -14,7 +14,7 @@
             {
                 "id": "codex",
                 "title": "Процедурный кодекс",
-                "icon": "https://s3.etty.su/web/navicons/rules/mods2.webp",
+                "icon": "https://s3.etty.su/web/navicons/rules/1.webp",
                 "file": "rules/codex.mdx",
                 "description": "Как устроен проект: роли, процедуры, жалобы, разбирательства и др."
             },
