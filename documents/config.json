@@ -71,21 +71,21 @@
             {
                 "id": "privacy-policy",
                 "title": "П. конфиденциальности",
-                "icon": "https://s3.etty.su/web/icons/legal/legal2.svg",
+                "icon": "https://s3.etty.su/web/icons/legal/3.webp",
                 "file": "docs/privacy-policy.mdx",
                 "description": "Как мы обрабатываем, храним и защищаем твои персональные данные."
             },
             {
                 "id": "cookies-policy",
                 "title": "Файлы cookie",
-                "icon": "https://s3.etty.su/web/icons/legal/legal4.svg",
+                "icon": "https://s3.etty.su/web/icons/legal/4.webp",
                 "file": "docs/cookies_policy.mdx",
                 "description": "Информация о технологиях отслеживания: cookie, локальное хранилище и др."
             },
             {
                 "id": "promo",
                 "title": "Акции и промокоды",
-                "icon": "https://s3.etty.su/web/icons/legal/legal4.svg",
+                "icon": "https://s3.etty.su/web/icons/legal/5.webp",
                 "file": "docs/promo.mdx",
                 "description": "Правила проведения временных акций, бонусных раздач, скидок и др."
             },
