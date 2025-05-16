@@ -424,7 +424,7 @@
                         "title": "Мини Боссы",
                         "icon": "https://s3.etty.su/web/icons/1.webp",
                         "file": "wiki_political/bosses.mdx",
-                        "description": "Информация по всем мини боссам"
+                        "description": "Информация по всем мини боссам."
                     },
                     {
                         "id": "buyer",
@@ -460,14 +460,14 @@
                         "title": "Меню Страны",
                         "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
                         "file": "wiki_political/menu.mdx",
-                        "description": "Разбор меню страны."
+                        "description": "Подробная информация по меню страны."
                     },
                     {
                         "id": "menu_city",
                         "title": "Меню Города",
                         "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
                         "file": "wiki_political/menu_city.mdx",
-                        "description": "Разбор меню города."
+                        "description": "Подробная информация по меню города."
                     }
                 ]
             }
