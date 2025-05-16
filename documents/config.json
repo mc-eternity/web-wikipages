@@ -416,20 +416,20 @@
             {
                 "id": "information",
                 "title": "Информация",
-                "icon": "https://s3.etty.su/web/icons/wiki/start/dirt.svg",
+                "icon": "https://s3.etty.su/web/icons/2.webp",
                 "children": [],
                 "files": [
                     {
                         "id": "bosses",
                         "title": "Мини Боссы",
-                        "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
+                        "icon": "https://s3.etty.su/web/icons/1.webp",
                         "file": "wiki_political/bosses.mdx",
                         "description": "Информация по всем мини боссам"
                     },
                     {
                         "id": "buyer",
                         "title": "Скупщики",
-                        "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
+                        "icon": "https://s3.etty.su/web/icons/3.webp",
                         "file": "wiki_political/buyer.mdx",
                         "description": "Какие есть вариации скупки."
                     }
