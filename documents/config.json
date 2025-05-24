@@ -219,6 +219,28 @@
                 ]
             },
             {
+                "id": "seasonpass",
+                "title": "Сезонный Пропуск",
+                "icon": "https://s3.etty.su/web/icons/wiki/clans/clans.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "info",
+                        "title": "Информация",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/seasonpass/sp_info.mdx",
+                        "description": "Вся информация про сезонный пропуск"
+                    },
+                    {
+                        "id": "items",
+                        "title": "Предметы Сезона",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/seasonpass/sp_items.mdx",
+                        "description": "Гайд по предметам сезонного пропуска"
+                    }
+                ]
+            },
+            {
                 "id": "cases",
                 "title": "Кейсы",
                 "icon": "https://s3.etty.su/web/icons/wiki/cases/book.svg",
