@@ -282,6 +282,13 @@
                         "description": "Шансы на выпадение плащей (косметика)."
                     },
                     {
+                        "id": "luck",
+                        "title": "Кейс Удачи",
+                        "icon": "https://s3.etty.su/web/icons/wiki/cases/capes.svg",
+                        "file": "wiki/cases/luck.mdx",
+                        "description": "Обзор на кейс удачи"
+                    },
+                    {
                         "id": "daily",
                         "title": "Ежедневный кейс",
                         "icon": "https://s3.etty.su/web/icons/wiki/battlepass/rewards.svg",
