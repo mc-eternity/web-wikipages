@@ -152,6 +152,13 @@
                         "description": "Как зарегистрироваться, сменить ник и защитить аккаунт."
                     },
                     {
+                        "id": "spawner",
+                        "title": "Ваш аккаунт",
+                        "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
+                        "file": "wiki/start/spawner.mdx",
+                        "description": "Полный гайд на спавнер."
+                    },
+                    {
                         "id": "regions",
                         "title": "Регионы и приваты",
                         "icon": "https://s3.etty.su/web/icons/wiki/start/wand.svg",
