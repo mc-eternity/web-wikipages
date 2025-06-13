@@ -159,6 +159,13 @@
                         "description": "Полный гайд на спавнер."
                     },
                     {
+                        "id": "help",
+                        "title": "Общая Информация",
+                        "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
+                        "file": "wiki/start/help.mdx",
+                        "description": "Информация по режиму."
+                    },
+                    {
                         "id": "regions",
                         "title": "Регионы и приваты",
                         "icon": "https://s3.etty.su/web/icons/wiki/start/wand.svg",
