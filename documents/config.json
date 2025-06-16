@@ -255,6 +255,36 @@
                 ]
             },
             {
+                "id": "skills",
+                "title": "Скиллы",
+                "icon": "https://s3.etty.su/web/icons/wiki/clans/clans.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "skill",
+                        "title": "Информация по скиллам",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/seasonpass/skill.mdx",
+                        "description": "Что такое скиллы?"
+                    }
+                ]
+            },
+            {
+                "id": "jobs",
+                "title": "Работы",
+                "icon": "https://s3.etty.su/web/icons/wiki/clans/clans.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "job",
+                        "title": "Информация по работам",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/seasonpass/skill.mdx",
+                        "description": "Что такое работы?"
+                    }
+                ]
+            },
+            {
                 "id": "cases",
                 "title": "Кейсы",
                 "icon": "https://s3.etty.su/web/icons/wiki/cases/book.svg",
