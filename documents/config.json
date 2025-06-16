@@ -266,6 +266,13 @@
                         "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/skills/skill.mdx",
                         "description": "Что такое скиллы?"
+                    },
+                    {
+                        "id": "fullskill",
+                        "title": "Все скиллы",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/skills/fullskill.mdx",
+                        "description": "Доступные скиллы."
                     }
                 ]
             },
