@@ -264,7 +264,7 @@
                         "id": "skill",
                         "title": "Информация по скиллам",
                         "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
-                        "file": "wiki/seasonpass/skill.mdx",
+                        "file": "wiki/skills/skill.mdx",
                         "description": "Что такое скиллы?"
                     }
                 ]
@@ -279,7 +279,7 @@
                         "id": "job",
                         "title": "Информация по работам",
                         "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
-                        "file": "wiki/seasonpass/skill.mdx",
+                        "file": "wiki/jobs/job.mdx",
                         "description": "Что такое работы?"
                     }
                 ]
