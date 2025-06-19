@@ -108,6 +108,12 @@
                 "file": "docs/old/oferta/oferta-21.05.2025.mdx"
             },
             {
+                "id": "oferta-19-06-2025",
+                "title": "Догофор оферты (утратил силу 19.06.2025)",
+                "hidden": true,
+                "file": "docs/old/oferta/oferta-19.06.2025.mdx"
+            },
+            {
                 "id": "license-21-04-2025",
                 "title": "Лицензионное соглашение (утратил силу 21.04.2025)",
                 "hidden": true,
