@@ -351,15 +351,15 @@
                     },
                     {
                         "id": "SP Редкий кейс",
-                        "title": "Информация",
-                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "title": "SP Редкий кейс",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/caserare.svg",
                         "file": "wiki/seasonpass/caserare.mdx",
                         "description": "Редкий сезонный кейс"
                     },
                     {
                         "id": "SP Кейс Плюс",
-                        "title": "Информация",
-                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "title": "SP Кейс Плюс",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/caseplus.svg",
                         "file": "wiki/seasonpass/caseplus.mdx",
                         "description": "Улучшенный сезонный кейс"
                     }
