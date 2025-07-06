@@ -250,6 +250,118 @@
                         "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/seasonpass/sp_info.mdx",
                         "description": "Вся информация про сезонный пропуск"
+                    },
+                    {
+                        "id": "uitem",
+                        "title": "Уникальные предметы",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/seasonpass/uitem.mdx",
+                        "description": "Уникальные и интересные предметы"
+                    },
+                    {
+                        "id": "material",
+                        "title": "Материалы",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/seasonpass/material.mdx",
+                        "description": "Черенок и Осколок"
+                    },
+                    {
+                        "id": "raskal",
+                        "title": "Раскаленные материалы",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/seasonpass/raskal.mdx",
+                        "description": "Информация про Раскаленные материалы"
+                    },
+                    {
+                        "id": "craftinator",
+                        "title": "Крафто-инаторы",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/seasonpass/craftinator.mdx",
+                        "description": "Информация о Крафто-инаторах"
+                    },
+                    {
+                        "id": "sparmor",
+                        "title": "SP Броня",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/seasonpass/sparmor.mdx",
+                        "description": "Рецепты крафта брони"
+                    },
+                    {
+                        "id": "spsword",
+                        "title": "SP Меч",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/seasonpass/spsword.mdx",
+                        "description": "Рецепты крафта меча"
+                    },
+                    {
+                        "id": "spaxe",
+                        "title": "SP Топор",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/seasonpass/spaxe.mdx",
+                        "description": "Рецепты крафта топоров"
+                    },
+                    {
+                        "id": "sppickaxe",
+                        "title": "SP Кирка",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/seasonpass/sppickaxe.mdx",
+                        "description": "Рецепты крафта кирки"
+                    },
+                    {
+                        "id": "spshovel",
+                        "title": "SP Лопата",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/seasonpass/spshovel.mdx",
+                        "description": "Рецепты крафта лопаты"
+                    },
+                    {
+                        "id": "spmot",
+                        "title": "SP Мотыга",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/seasonpass/spmot.mdx",
+                        "description": "Рецепт крафта мотыги"
+                    },
+                    {
+                        "id": "spfish",
+                        "title": "SP Удочка",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/seasonpass/spfish.mdx",
+                        "description": "Рецепты крафта удочки"
+                    },
+                    {
+                        "id": "spcrossbow",
+                        "title": "SP Арбалет",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/seasonpass/spcrossbow.mdx",
+                        "description": "Рецепт крафта арбалета"
+                    },
+                    {
+                        "id": "spluk",
+                        "title": "SP Лук",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/seasonpass/spluk.mdx",
+                        "description": "Рецепт крафта лука"
+                    },
+                    {
+                        "id": "casedefault",
+                        "title": "SP Кейс",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/seasonpass/casedefault.mdx",
+                        "description": "Стандартный сезонный кейс"
+                    },
+                    {
+                        "id": "SP Редкий кейс",
+                        "title": "Информация",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/seasonpass/caserare.mdx",
+                        "description": "Редкий сезонный кейс"
+                    },
+                    {
+                        "id": "SP Кейс Плюс",
+                        "title": "Информация",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/seasonpass/caseplus.mdx",
+                        "description": "Улучшенный сезонный кейс"
                     }
                 ]
             },
