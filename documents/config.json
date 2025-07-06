@@ -350,14 +350,14 @@
                         "description": "Стандартный сезонный кейс"
                     },
                     {
-                        "id": "SP Редкий кейс",
+                        "id": "caserare",
                         "title": "SP Редкий кейс",
                         "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/seasonpass/caserare.mdx",
                         "description": "Редкий сезонный кейс"
                     },
                     {
-                        "id": "SP Кейс Плюс",
+                        "id": "caseplus",
                         "title": "SP Кейс Плюс",
                         "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/seasonpass/caseplus.mdx",
