@@ -239,6 +239,21 @@
                 ]
             },
             {
+                "id": "fishing",
+                "title": "Кастомная Рыбалка",
+                "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "fishing",
+                        "title": "Уровни клана",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/clans/fishing.mdx",
+                        "description": "Что такое кастомная рыбалка."
+                    }
+                ]
+            },
+            {
                 "id": "seasonpass",
                 "title": "Сезонный Пропуск",
                 "icon": "https://s3.etty.su/web/icons/wiki/clans/clans.svg",
