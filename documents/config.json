@@ -240,8 +240,8 @@
             },
             {
                 "id": "fishing",
-                "title": "Кастомная Рыбалка",
-                "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                "title": "Кастом - Рыбалка",
+                "icon": "https://s3.etty.su/wiki/survival/rod.webp",
                 "children": [],
                 "files": [
                     {
@@ -256,7 +256,7 @@
             {
                 "id": "seasonpass",
                 "title": "Сезонный Пропуск",
-                "icon": "https://s3.etty.su/web/icons/wiki/clans/clans.svg",
+                "icon": "https://s3.etty.su/wiki/survival/rubin.webp",
                 "children": [],
                 "files": [
                     {
@@ -383,7 +383,7 @@
             {
                 "id": "skills",
                 "title": "Скиллы",
-                "icon": "https://s3.etty.su/web/icons/wiki/clans/clans.svg",
+                "icon": "https://s3.etty.su/wiki/survival/lazurit.webp",
                 "children": [],
                 "files": [
                     {
@@ -405,7 +405,7 @@
             {
                 "id": "jobs",
                 "title": "Работы",
-                "icon": "https://s3.etty.su/web/icons/wiki/clans/clans.svg",
+                "icon": "https://s3.etty.su/wiki/survival/dpickaxe.webp",
                 "children": [],
                 "files": [
                     {
