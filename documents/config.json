@@ -181,6 +181,28 @@
                 ]
             },
             {
+                "id": "brewery",
+                "title": "Brewery",
+                "icon": "https://s3.etty.su/web/icons/wiki/brewery/barrel.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "guide",
+                        "title": "Как пользоваться",
+                        "icon": "https://s3.etty.su/web/icons/wiki/brewery/cotel.svg",
+                        "file": "wiki/brewery/guide.mdx",
+                        "description": "Объясняем, как варить свои собственные напитки."
+                    },
+                    {
+                        "id": "recipes",
+                        "title": "Рецепты",
+                        "icon": "https://s3.etty.su/web/icons/wiki/brewery/book.svg",
+                        "file": "wiki/brewery/recipes.mdx",
+                        "description": "Рецепты напитков и способы приготовления варить."
+                    }
+                ]
+            },
+            {
                 "id": "battlepass",
                 "title": "Боевой Пропуск",
                 "icon": "https://s3.etty.su/web/icons/wiki/battlepass/bpass.svg",
@@ -206,6 +228,128 @@
                         "icon": "https://s3.etty.su/web/icons/wiki/battlepass/rewards.svg",
                         "file": "wiki/battlepass/rewards.mdx",
                         "description": "Всё, что можно получить за прогресс в пропуске."
+                    }
+                ]
+            },
+            {
+                "id": "dbooks",
+                "title": "Зачарования",
+                "icon": "https://s3.etty.su/web/icons/wiki/dbooks/mythycal.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "simple",
+                        "title": "Обычные",
+                        "icon": "https://s3.etty.su/web/icons/wiki/dbooks/common.svg",
+                        "file": "wiki/dbooks/simplebooks.mdx",
+                        "description": "Список и информация по обычным кастомным зачарованиям."
+                    },
+                    {
+                        "id": "unique",
+                        "title": "Уникальные",
+                        "icon": "https://s3.etty.su/web/icons/wiki/dbooks/uniq.svg",
+                        "file": "wiki/dbooks/uniquebooks.mdx",
+                        "description": "Список и информация по уникальным кастомным зачарованиям."
+                    },
+                    {
+                        "id": "elite",
+                        "title": "Элитные",
+                        "icon": "https://s3.etty.su/web/icons/wiki/dbooks/elite.svg",
+                        "file": "wiki/dbooks/elitebooks.mdx",
+                        "description": "Список и информация по элитным кастомным зачарованиям."
+                    },
+                    {
+                        "id": "ultimate",
+                        "title": "Ультимативные",
+                        "icon": "https://s3.etty.su/web/icons/wiki/dbooks/ultimate.svg",
+                        "file": "wiki/dbooks/ultimatebooks.mdx",
+                        "description": "Список и информация по ультимативным кастомным зачарованиям."
+                    },
+                    {
+                        "id": "legendary",
+                        "title": "Легендарные",
+                        "icon": "https://s3.etty.su/web/icons/wiki/dbooks/legendary.svg",
+                        "file": "wiki/dbooks/legendarybooks.mdx",
+                        "description": "Список и информация по легендарным кастомным зачарованиям."
+                    },
+                    {
+                        "id": "fabled",
+                        "title": "Мифические",
+                        "icon": "https://s3.etty.su/web/icons/wiki/dbooks/mythycal.svg",
+                        "file": "wiki/dbooks/fabledbooks.mdx",
+                        "description": "Список и информация по мифическим кастомным зачарованиям."
+                    }
+                ]
+            },
+            {
+                "id": "fishing",
+                "title": "Кастом - Рыбалка",
+                "icon": "https://s3.etty.su/wiki/survival/rod.webp",
+                "children": [],
+                "files": [
+                    {
+                        "id": "fishing",
+                        "title": "Информация о Рыбалке",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/clans/fish_info.mdx",
+                        "description": "Что такое кастомная рыбалка."
+                    }
+                ]
+            },
+            {
+                "id": "cases",
+                "title": "Кейсы",
+                "icon": "https://s3.etty.su/web/icons/wiki/cases/book.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "donate",
+                        "title": "Кейс с донатом",
+                        "icon": "https://s3.etty.su/web/icons/wiki/cases/donate.svg",
+                        "file": "wiki/cases/donate.mdx",
+                        "description": "Шансы на выпадение привилегий."
+                    },
+                    {
+                        "id": "books",
+                        "title": "Кейс с книгами",
+                        "icon": "https://s3.etty.su/web/icons/wiki/cases/book.svg",
+                        "file": "wiki/cases/books.mdx",
+                        "description": "Шансы на выпадение кастомных зачарований."
+                    },
+                    {
+                        "id": "effect",
+                        "title": "Кейс с эффектами",
+                        "icon": "https://s3.etty.su/web/icons/wiki/cases/effects.svg",
+                        "file": "wiki/cases/effect.mdx",
+                        "description": "Шансы на выпадение эффектов."
+                    },
+                    {
+                        "id": "cases",
+                        "title": "Кейс с яйцами",
+                        "icon": "https://s3.etty.su/web/icons/wiki/cases/summon.svg",
+                        "file": "wiki/cases/eggs.mdx",
+                        "description": "Шансы на выпадение яиц призыва."
+                    },
+                    {
+                        "id": "plash",
+                        "title": "Кейс с плащами",
+                        "icon": "https://s3.etty.su/web/icons/wiki/cases/capes.svg",
+                        "file": "wiki/cases/plash.mdx",
+                        "description": "Шансы на выпадение плащей (косметика)."
+                    },
+                    {
+                        "id": "luck",
+                        "title": "Кейс Удачи",
+                        "icon": "https://s3.etty.su/web/icons/wiki/cases/capes.svg",
+                        "file": "wiki/cases/luck.mdx",
+                        "description": "Обзор на кейс удачи"
+                    },
+                    {
+                        "id": "daily",
+                        "title": "Ежедневный кейс",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/rewards.svg",
+                        "file": "wiki/cases/daily.mdx",
+                        "description": "Бесплатный кейс раз в день. Почему бы нет?"
                     }
                 ]
             },
@@ -239,17 +383,88 @@
                 ]
             },
             {
-                "id": "fishing",
-                "title": "Кастом - Рыбалка",
-                "icon": "https://s3.etty.su/wiki/survival/rod.webp",
+                "id": "donate",
+                "title": "Привилегии",
+                "icon": "https://s3.etty.su/web/icons/wiki/donate/player.svg",
                 "children": [],
                 "files": [
                     {
-                        "id": "fishing",
-                        "title": "Информация о Рыбалке",
+                        "id": "emperor",
+                        "title": "EMPEROR",
+                        "icon": "https://s3.etty.su/web/icons/wiki/donate/emperor.svg",
+                        "file": "wiki/donate/emperor.mdx",
+                        "description": "Подробная информация по командам и возможностям."
+                    },
+                    {
+                        "id": "legend",
+                        "title": "LEGEND",
+                        "icon": "https://s3.etty.su/web/icons/wiki/donate/legend.svg",
+                        "file": "wiki/donate/legend.mdx",
+                        "description": "Подробная информация по командам и возможностям."
+                    },
+                    {
+                        "id": "samurai",
+                        "title": "SAMURAI",
+                        "icon": "https://s3.etty.su/web/icons/wiki/donate/samurai.svg",
+                        "file": "wiki/donate/samurai.mdx",
+                        "description": "Подробная информация по командам и возможностям."
+                    },
+                    {
+                        "id": "shinobi",
+                        "title": "SHINOBI",
+                        "icon": "https://s3.etty.su/web/icons/wiki/donate/shinobi.svg",
+                        "file": "wiki/donate/shinobi.mdx",
+                        "description": "Подробная информация по командам и возможностям."
+                    },
+                    {
+                        "id": "ghost",
+                        "title": "GHOST",
+                        "icon": "https://s3.etty.su/web/icons/wiki/donate/ghost.svg",
+                        "file": "wiki/donate/ghost.mdx",
+                        "description": "Подробная информация по командам и возможностям."
+                    },
+                    {
+                        "id": "shadow",
+                        "title": "SHADOW",
+                        "icon": "https://s3.etty.su/web/icons/wiki/donate/shadow.svg",
+                        "file": "wiki/donate/shadow.mdx",
+                        "description": "Подробная информация по командам и возможностям."
+                    },
+                    {
+                        "id": "premium",
+                        "title": "PREMIUM",
+                        "icon": "https://s3.etty.su/web/icons/wiki/donate/premium.svg",
+                        "file": "wiki/donate/premium.mdx",
+                        "description": "Подробная информация по командам и возможностям."
+                    },
+                    {
+                        "id": "vip",
+                        "title": "VIP",
+                        "icon": "https://s3.etty.su/web/icons/wiki/donate/vip.svg",
+                        "file": "wiki/donate/vip.mdx",
+                        "description": "Подробная информация по командам и возможностям."
+                    },
+                    {
+                        "id": "player",
+                        "title": "PLAYER",
+                        "icon": "https://s3.etty.su/web/icons/wiki/donate/player.svg",
+                        "file": "wiki/donate/player.mdx",
+                        "description": "Подробная информация по командам и возможностям."
+                    }
+                ]
+            },
+            {
+                "id": "jobs",
+                "title": "Работы",
+                "icon": "https://s3.etty.su/wiki/survival/dpickaxe.webp",
+                "children": [],
+                "files": [
+                    {
+                        "id": "job",
+                        "title": "Информация по работам",
                         "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
-                        "file": "wiki/clans/fish_info.mdx",
-                        "description": "Что такое кастомная рыбалка."
+                        "file": "wiki/jobs/job.mdx",
+                        "description": "Что такое работы?"
                     }
                 ]
             },
@@ -399,221 +614,6 @@
                         "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/skills/fullskill.mdx",
                         "description": "Доступные скиллы."
-                    }
-                ]
-            },
-            {
-                "id": "jobs",
-                "title": "Работы",
-                "icon": "https://s3.etty.su/wiki/survival/dpickaxe.webp",
-                "children": [],
-                "files": [
-                    {
-                        "id": "job",
-                        "title": "Информация по работам",
-                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
-                        "file": "wiki/jobs/job.mdx",
-                        "description": "Что такое работы?"
-                    }
-                ]
-            },
-            {
-                "id": "cases",
-                "title": "Кейсы",
-                "icon": "https://s3.etty.su/web/icons/wiki/cases/book.svg",
-                "children": [],
-                "files": [
-                    {
-                        "id": "donate",
-                        "title": "Кейс с донатом",
-                        "icon": "https://s3.etty.su/web/icons/wiki/cases/donate.svg",
-                        "file": "wiki/cases/donate.mdx",
-                        "description": "Шансы на выпадение привилегий."
-                    },
-                    {
-                        "id": "books",
-                        "title": "Кейс с книгами",
-                        "icon": "https://s3.etty.su/web/icons/wiki/cases/book.svg",
-                        "file": "wiki/cases/books.mdx",
-                        "description": "Шансы на выпадение кастомных зачарований."
-                    },
-                    {
-                        "id": "effect",
-                        "title": "Кейс с эффектами",
-                        "icon": "https://s3.etty.su/web/icons/wiki/cases/effects.svg",
-                        "file": "wiki/cases/effect.mdx",
-                        "description": "Шансы на выпадение эффектов."
-                    },
-                    {
-                        "id": "cases",
-                        "title": "Кейс с яйцами",
-                        "icon": "https://s3.etty.su/web/icons/wiki/cases/summon.svg",
-                        "file": "wiki/cases/eggs.mdx",
-                        "description": "Шансы на выпадение яиц призыва."
-                    },
-                    {
-                        "id": "plash",
-                        "title": "Кейс с плащами",
-                        "icon": "https://s3.etty.su/web/icons/wiki/cases/capes.svg",
-                        "file": "wiki/cases/plash.mdx",
-                        "description": "Шансы на выпадение плащей (косметика)."
-                    },
-                    {
-                        "id": "luck",
-                        "title": "Кейс Удачи",
-                        "icon": "https://s3.etty.su/web/icons/wiki/cases/capes.svg",
-                        "file": "wiki/cases/luck.mdx",
-                        "description": "Обзор на кейс удачи"
-                    },
-                    {
-                        "id": "daily",
-                        "title": "Ежедневный кейс",
-                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/rewards.svg",
-                        "file": "wiki/cases/daily.mdx",
-                        "description": "Бесплатный кейс раз в день. Почему бы нет?"
-                    }
-                ]
-            },
-            {
-                "id": "brewery",
-                "title": "Brewery",
-                "icon": "https://s3.etty.su/web/icons/wiki/brewery/barrel.svg",
-                "children": [],
-                "files": [
-                    {
-                        "id": "guide",
-                        "title": "Как пользоваться",
-                        "icon": "https://s3.etty.su/web/icons/wiki/brewery/cotel.svg",
-                        "file": "wiki/brewery/guide.mdx",
-                        "description": "Объясняем, как варить свои собственные напитки."
-                    },
-                    {
-                        "id": "recipes",
-                        "title": "Рецепты",
-                        "icon": "https://s3.etty.su/web/icons/wiki/brewery/book.svg",
-                        "file": "wiki/brewery/recipes.mdx",
-                        "description": "Рецепты напитков и способы приготовления варить."
-                    }
-                ]
-            },
-            {
-                "id": "dbooks",
-                "title": "Зачарования",
-                "icon": "https://s3.etty.su/web/icons/wiki/dbooks/mythycal.svg",
-                "children": [],
-                "files": [
-                    {
-                        "id": "simple",
-                        "title": "Обычные",
-                        "icon": "https://s3.etty.su/web/icons/wiki/dbooks/common.svg",
-                        "file": "wiki/dbooks/simplebooks.mdx",
-                        "description": "Список и информация по обычным кастомным зачарованиям."
-                    },
-                    {
-                        "id": "unique",
-                        "title": "Уникальные",
-                        "icon": "https://s3.etty.su/web/icons/wiki/dbooks/uniq.svg",
-                        "file": "wiki/dbooks/uniquebooks.mdx",
-                        "description": "Список и информация по уникальным кастомным зачарованиям."
-                    },
-                    {
-                        "id": "elite",
-                        "title": "Элитные",
-                        "icon": "https://s3.etty.su/web/icons/wiki/dbooks/elite.svg",
-                        "file": "wiki/dbooks/elitebooks.mdx",
-                        "description": "Список и информация по элитным кастомным зачарованиям."
-                    },
-                    {
-                        "id": "ultimate",
-                        "title": "Ультимативные",
-                        "icon": "https://s3.etty.su/web/icons/wiki/dbooks/ultimate.svg",
-                        "file": "wiki/dbooks/ultimatebooks.mdx",
-                        "description": "Список и информация по ультимативным кастомным зачарованиям."
-                    },
-                    {
-                        "id": "legendary",
-                        "title": "Легендарные",
-                        "icon": "https://s3.etty.su/web/icons/wiki/dbooks/legendary.svg",
-                        "file": "wiki/dbooks/legendarybooks.mdx",
-                        "description": "Список и информация по легендарным кастомным зачарованиям."
-                    },
-                    {
-                        "id": "fabled",
-                        "title": "Мифические",
-                        "icon": "https://s3.etty.su/web/icons/wiki/dbooks/mythycal.svg",
-                        "file": "wiki/dbooks/fabledbooks.mdx",
-                        "description": "Список и информация по мифическим кастомным зачарованиям."
-                    }
-                ]
-            },
-            {
-                "id": "donate",
-                "title": "Привилегии",
-                "icon": "https://s3.etty.su/web/icons/wiki/donate/player.svg",
-                "children": [],
-                "files": [
-                    {
-                        "id": "emperor",
-                        "title": "EMPEROR",
-                        "icon": "https://s3.etty.su/web/icons/wiki/donate/emperor.svg",
-                        "file": "wiki/donate/emperor.mdx",
-                        "description": "Подробная информация по командам и возможностям."
-                    },
-                    {
-                        "id": "legend",
-                        "title": "LEGEND",
-                        "icon": "https://s3.etty.su/web/icons/wiki/donate/legend.svg",
-                        "file": "wiki/donate/legend.mdx",
-                        "description": "Подробная информация по командам и возможностям."
-                    },
-                    {
-                        "id": "samurai",
-                        "title": "SAMURAI",
-                        "icon": "https://s3.etty.su/web/icons/wiki/donate/samurai.svg",
-                        "file": "wiki/donate/samurai.mdx",
-                        "description": "Подробная информация по командам и возможностям."
-                    },
-                    {
-                        "id": "shinobi",
-                        "title": "SHINOBI",
-                        "icon": "https://s3.etty.su/web/icons/wiki/donate/shinobi.svg",
-                        "file": "wiki/donate/shinobi.mdx",
-                        "description": "Подробная информация по командам и возможностям."
-                    },
-                    {
-                        "id": "ghost",
-                        "title": "GHOST",
-                        "icon": "https://s3.etty.su/web/icons/wiki/donate/ghost.svg",
-                        "file": "wiki/donate/ghost.mdx",
-                        "description": "Подробная информация по командам и возможностям."
-                    },
-                    {
-                        "id": "shadow",
-                        "title": "SHADOW",
-                        "icon": "https://s3.etty.su/web/icons/wiki/donate/shadow.svg",
-                        "file": "wiki/donate/shadow.mdx",
-                        "description": "Подробная информация по командам и возможностям."
-                    },
-                    {
-                        "id": "premium",
-                        "title": "PREMIUM",
-                        "icon": "https://s3.etty.su/web/icons/wiki/donate/premium.svg",
-                        "file": "wiki/donate/premium.mdx",
-                        "description": "Подробная информация по командам и возможностям."
-                    },
-                    {
-                        "id": "vip",
-                        "title": "VIP",
-                        "icon": "https://s3.etty.su/web/icons/wiki/donate/vip.svg",
-                        "file": "wiki/donate/vip.mdx",
-                        "description": "Подробная информация по командам и возможностям."
-                    },
-                    {
-                        "id": "player",
-                        "title": "PLAYER",
-                        "icon": "https://s3.etty.su/web/icons/wiki/donate/player.svg",
-                        "file": "wiki/donate/player.mdx",
-                        "description": "Подробная информация по командам и возможностям."
                     }
                 ]
             }
