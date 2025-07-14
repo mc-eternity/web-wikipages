@@ -246,7 +246,7 @@
                 "files": [
                     {
                         "id": "fishing",
-                        "title": "Уровни клана",
+                        "title": "Информация о Рыбалке",
                         "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/clans/fishing.mdx",
                         "description": "Что такое кастомная рыбалка."
