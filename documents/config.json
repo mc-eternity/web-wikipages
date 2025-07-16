@@ -158,13 +158,6 @@
                         "description": "Как зарегистрироваться, сменить ник и защитить аккаунт."
                     },
                     {
-                        "id": "spawner",
-                        "title": "Спавнера",
-                        "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
-                        "file": "wiki/start/spawner.mdx",
-                        "description": "Полный гайд на спавнер."
-                    },
-                    {
                         "id": "help",
                         "title": "Общая Информация",
                         "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
@@ -177,6 +170,13 @@
                         "icon": "https://s3.etty.su/web/icons/wiki/start/wand.svg",
                         "file": "wiki/start/regions.mdx",
                         "description": "Как приватить и защитить свои постройки от гриферов."
+                    },
+                    {
+                        "id": "spawner",
+                        "title": "Спавнера",
+                        "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
+                        "file": "wiki/start/spawner.mdx",
+                        "description": "Полный гайд на спавнер."
                     }
                 ]
             },
