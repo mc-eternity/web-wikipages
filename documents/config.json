@@ -174,7 +174,7 @@
                     {
                         "id": "spawner",
                         "title": "Спавнеры",
-                        "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
+                        "icon": "https://s3.etty.su/wiki/survival/spawner.webp",
                         "file": "wiki/start/spawner.mdx",
                         "description": "Как работают, где встречаются, как добыть."
                     }
