@@ -464,7 +464,7 @@
                         "title": "Информация по работам",
                         "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/jobs/job.mdx",
-                        "description": "Что такое работы?"
+                        "description": "Подробная информация о работах сервера."
                     }
                 ]
             },
