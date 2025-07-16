@@ -173,10 +173,10 @@
                     },
                     {
                         "id": "spawner",
-                        "title": "Спавнера",
+                        "title": "Спавнеры",
                         "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
                         "file": "wiki/start/spawner.mdx",
-                        "description": "Полный гайд на спавнер."
+                        "description": "Как работают, где встречаются, как добыть."
                     }
                 ]
             },
