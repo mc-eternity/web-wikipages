@@ -45,6 +45,14 @@
                 "icon": "https://s3.etty.su/web/icons/rules/4.webp",
                 "file": "rules/media-rules.mdx",
                 "description": "Коммуникация за пределами сервера: как вести себя в Discord, Telegram и ВКонтакте."
+            },
+            {
+                "id": "testsurv",
+                "title": "Правила Выживание",
+                "icon": "https://s3.etty.su/web/icons/rules/3.webp",
+                "file": "rules/test-rules.mdx",
+                "hidden": true,
+                "description": "Особенности режима: механики, ограничения и внутриигровые нюансы."
             }
         ]
     },
