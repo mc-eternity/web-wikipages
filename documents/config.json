@@ -468,6 +468,21 @@
                 ]
             },
             {
+                "id": "events",
+                "title": "Ивенты",
+                "icon": "https://s3.etty.su/web/icons/wiki/battlepass/rewards.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "schedule",
+                        "title": "Расписание",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/rewards.svg",
+                        "file": "wiki/events/schedule.mdx",
+                        "description": "Расписание ивентов по дням."
+                    }
+                ]
+            },
+            {
                 "id": "jobs",
                 "title": "Работы",
                 "icon": "https://s3.etty.su/wiki/survival/dpickaxe.webp",
