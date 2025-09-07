@@ -296,6 +296,21 @@
                 ]
             },
             {
+                "id": "events",
+                "title": "Ивенты",
+                "icon": "https://s3.etty.su/web/icons/wiki/battlepass/rewards.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "schedule",
+                        "title": "Расписание",
+                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/rewards.svg",
+                        "file": "wiki/events/schedule.mdx",
+                        "description": "Расписание ивентов по дням."
+                    }
+                ]
+            },
+            {
                 "id": "fishing",
                 "title": "Кастом - Рыбалка",
                 "icon": "https://s3.etty.su/wiki/survival/rod.webp",
@@ -464,21 +479,6 @@
                         "icon": "https://s3.etty.su/web/icons/wiki/donate/player.svg",
                         "file": "wiki/donate/player.mdx",
                         "description": "Подробная информация по командам и возможностям."
-                    }
-                ]
-            },
-            {
-                "id": "events",
-                "title": "Ивенты",
-                "icon": "https://s3.etty.su/web/icons/wiki/battlepass/rewards.svg",
-                "children": [],
-                "files": [
-                    {
-                        "id": "schedule",
-                        "title": "Расписание",
-                        "icon": "https://s3.etty.su/web/icons/wiki/battlepass/rewards.svg",
-                        "file": "wiki/events/schedule.mdx",
-                        "description": "Расписание ивентов по дням."
                     }
                 ]
             },
