@@ -33,13 +33,6 @@
                 "description": "Особенности режима: механики, ограничения и внутриигровые нюансы."
             },
             {
-                "id": "political",
-                "title": "Правила Политический",
-                "icon": "https://s3.etty.su/web/icons/rules/5.webp",
-                "file": "rules/political-rules.mdx",
-                "description": "Особенности режима: механики, ограничения и внутриигровые нюансы."
-            },
-            {
                 "id": "media",
                 "title": "Правила соц-сетей",
                 "icon": "https://s3.etty.su/web/icons/rules/4.webp",
@@ -643,72 +636,6 @@
                         "icon": "https://s3.etty.su/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/skills/fullskill.mdx",
                         "description": "Доступные скиллы."
-                    }
-                ]
-            }
-        ],
-        "files": []
-    },
-    {
-        "id": "wiki-polit",
-        "title": "Вики Полит",
-        "icon": "https://s3.etty.su/web/icons/wikipedia.svg",
-        "children": [
-            {
-                "id": "information",
-                "title": "Информация",
-                "icon": "https://s3.etty.su/web/icons/2.webp",
-                "children": [],
-                "files": [
-                    {
-                        "id": "bosses",
-                        "title": "Мини Боссы",
-                        "icon": "https://s3.etty.su/web/icons/1.webp",
-                        "file": "wiki_political/bosses.mdx",
-                        "description": "Информация по всем мини боссам."
-                    },
-                    {
-                        "id": "buyer",
-                        "title": "Скупщики",
-                        "icon": "https://s3.etty.su/web/icons/3.webp",
-                        "file": "wiki_political/buyer.mdx",
-                        "description": "Какие есть вариации скупки."
-                    }
-                ]
-            },
-            {
-                "id": "сountry",
-                "title": "Страна",
-                "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
-                "children": [],
-                "files": [
-                    {
-                        "id": "сountries",
-                        "title": "Управление",
-                        "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
-                        "file": "wiki_political/сountries.mdx",
-                        "description": "Механики и возможности."
-                    },
-                    {
-                        "id": "command",
-                        "title": "Команды",
-                        "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
-                        "file": "wiki_political/command.mdx",
-                        "description": "Подробная информация по командам."
-                    },
-                    {
-                        "id": "menu",
-                        "title": "Меню Страны",
-                        "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
-                        "file": "wiki_political/menu.mdx",
-                        "description": "Подробная информация по меню страны."
-                    },
-                    {
-                        "id": "menu_city",
-                        "title": "Меню Города",
-                        "icon": "https://s3.etty.su/web/icons/wiki/start/cookie.svg",
-                        "file": "wiki_political/menu_city.mdx",
-                        "description": "Подробная информация по меню города."
                     }
                 ]
             }
