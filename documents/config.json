@@ -2,47 +2,47 @@
     {
         "id": "rules",
         "title": "Правила",
-        "icon": "https://storage.etty.site/web/icons/rules/1.webp",
+        "icon": "https://s3.etty.site/web/web/icons/rules/1.webp",
         "children": [],
         "files": [
             {
                 "id": "modifications",
                 "title": "Модификации клиента",
-                "icon": "https://storage.etty.site/web/icons/rules/mods.webp",
+                "icon": "https://s3.etty.site/web/web/icons/rules/mods.webp",
                 "description": "Допустимые и запрещённые модификации - что можно ставить, а за что дадут бан."
             },
             {
                 "id": "codex",
                 "title": "Процедурный кодекс",
-                "icon": "https://storage.etty.site/web/icons/rules/2.webp",
+                "icon": "https://s3.etty.site/web/web/icons/rules/2.webp",
                 "file": "rules/codex.mdx",
                 "description": "Как устроен проект: роли, процедуры, жалобы, разбирательства и др."
             },
             {
                 "id": "rules",
                 "title": "Общие правила",
-                "icon": "https://storage.etty.site/web/icons/rules/1.webp",
+                "icon": "https://s3.etty.site/web/web/icons/rules/1.webp",
                 "file": "rules/base-rules.mdx",
                 "description": "Общие правила поведения для всех - что запрещено, как не быть забаненным."
             },
             {
                 "id": "survival",
                 "title": "Правила Выживание",
-                "icon": "https://storage.etty.site/web/icons/rules/3.webp",
+                "icon": "https://s3.etty.site/web/web/icons/rules/3.webp",
                 "file": "rules/survival-rules.mdx",
                 "description": "Особенности режима: механики, ограничения и внутриигровые нюансы."
             },
             {
                 "id": "media",
                 "title": "Правила соц-сетей",
-                "icon": "https://storage.etty.site/web/icons/rules/4.webp",
+                "icon": "https://s3.etty.site/web/web/icons/rules/4.webp",
                 "file": "rules/media-rules.mdx",
                 "description": "Коммуникация за пределами сервера: как вести себя в Discord, Telegram и ВКонтакте."
             },
             {
                 "id": "testsurv",
                 "title": "Правила Выживание",
-                "icon": "https://storage.etty.site/web/icons/rules/3.webp",
+                "icon": "https://s3.etty.site/web/web/icons/rules/3.webp",
                 "file": "rules/test-rules.mdx",
                 "hidden": true,
                 "description": "Особенности режима: механики, ограничения и внутриигровые нюансы."
@@ -52,41 +52,41 @@
     {
         "id": "legal",
         "title": "Документы",
-        "icon": "https://storage.etty.site/web/icons/legal/2.webp",
+        "icon": "https://s3.etty.site/web/web/icons/legal/2.webp",
         "children": [],
         "files": [
             {
                 "id": "oferta_eternity",
                 "title": "Договор оферты",
-                "icon": "https://storage.etty.site/web/icons/legal/1.webp",
+                "icon": "https://s3.etty.site/web/web/icons/legal/1.webp",
                 "file": "docs/oferta_eternity.mdx",
                 "description": "Публичный договор, регулирующий отношения между сторонами."
             },
             {
                 "id": "license",
                 "title": "Лиц. соглашение",
-                "icon": "https://storage.etty.site/web/icons/legal/2.webp",
+                "icon": "https://s3.etty.site/web/web/icons/legal/2.webp",
                 "file": "docs/license.mdx",
                 "description": "Правила использования нематериальной функциональности проекта."
             },
             {
                 "id": "privacy-policy",
                 "title": "П. конфиденциальности",
-                "icon": "https://storage.etty.site/web/icons/legal/3.webp",
+                "icon": "https://s3.etty.site/web/web/icons/legal/3.webp",
                 "file": "docs/privacy-policy.mdx",
                 "description": "Как мы обрабатываем, храним и защищаем твои персональные данные."
             },
             {
                 "id": "cookies-policy",
                 "title": "Файлы cookie",
-                "icon": "https://storage.etty.site/web/icons/legal/4.webp",
+                "icon": "https://s3.etty.site/web/web/icons/legal/4.webp",
                 "file": "docs/cookies_policy.mdx",
                 "description": "Информация о технологиях отслеживания: cookie, локальное хранилище и др."
             },
             {
                 "id": "promo",
                 "title": "Акции и промокоды",
-                "icon": "https://storage.etty.site/web/icons/legal/5.webp",
+                "icon": "https://s3.etty.site/web/web/icons/legal/5.webp",
                 "file": "docs/promo.mdx",
                 "description": "Правила проведения временных акций, бонусных раздач, скидок и др."
             },
@@ -167,39 +167,39 @@
     {
         "id": "wiki-survival",
         "title": "Вики Выживание",
-        "icon": "https://storage.etty.site/web/icons/wikipedia.svg",
+        "icon": "https://s3.etty.site/web/web/icons/wikipedia.svg",
         "children": [
             {
                 "id": "start",
                 "title": "Начало игры",
-                "icon": "https://storage.etty.site/web/icons/wiki/start/dirt.svg",
+                "icon": "https://s3.etty.site/web/web/icons/wiki/start/dirt.svg",
                 "children": [],
                 "files": [
                     {
                         "id": "account",
                         "title": "Ваш аккаунт",
-                        "icon": "https://storage.etty.site/web/icons/wiki/start/cookie.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/start/cookie.svg",
                         "file": "wiki/start/acc.mdx",
                         "description": "Как зарегистрироваться, сменить ник и защитить аккаунт."
                     },
                     {
                         "id": "help",
                         "title": "Общая Информация",
-                        "icon": "https://storage.etty.site/wiki/survival/almaz.webp",
+                        "icon": "https://s3.etty.site/web/wiki/survival/almaz.webp",
                         "file": "wiki/start/help.mdx",
                         "description": "Общая информация по режиму, его особенности."
                     },
                     {
                         "id": "regions",
                         "title": "Регионы и приваты",
-                        "icon": "https://storage.etty.site/web/icons/wiki/start/wand.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/start/wand.svg",
                         "file": "wiki/start/regions.mdx",
                         "description": "Как приватить и защитить свои постройки от гриферов."
                     },
                     {
                         "id": "spawner",
                         "title": "Спавнеры",
-                        "icon": "https://storage.etty.site/wiki/survival/spawner.webp",
+                        "icon": "https://s3.etty.site/web/wiki/survival/spawner.webp",
                         "file": "wiki/start/spawner.mdx",
                         "description": "Как работают, где встречаются, как добыть."
                     }
@@ -208,20 +208,20 @@
             {
                 "id": "brewery",
                 "title": "Brewery",
-                "icon": "https://storage.etty.site/web/icons/wiki/brewery/barrel.svg",
+                "icon": "https://s3.etty.site/web/web/icons/wiki/brewery/barrel.svg",
                 "children": [],
                 "files": [
                     {
                         "id": "guide",
                         "title": "Как пользоваться",
-                        "icon": "https://storage.etty.site/web/icons/wiki/brewery/cotel.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/brewery/cotel.svg",
                         "file": "wiki/brewery/guide.mdx",
                         "description": "Объясняем, как варить свои собственные напитки."
                     },
                     {
                         "id": "recipes",
                         "title": "Рецепты",
-                        "icon": "https://storage.etty.site/web/icons/wiki/brewery/book.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/brewery/book.svg",
                         "file": "wiki/brewery/recipes.mdx",
                         "description": "Рецепты напитков и способы приготовления варить."
                     }
@@ -230,27 +230,27 @@
             {
                 "id": "battlepass",
                 "title": "Боевой Пропуск",
-                "icon": "https://storage.etty.site/web/icons/wiki/battlepass/bpass.svg",
+                "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/bpass.svg",
                 "children": [],
                 "files": [
                     {
                         "id": "info",
                         "title": "Информация",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/battlepass/info.mdx",
                         "description": "Что такое боевой пропуск, зачем он нужен."
                     },
                     {
                         "id": "quests",
                         "title": "Квесты",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/quests.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/quests.svg",
                         "file": "wiki/battlepass/quests.mdx",
                         "description": "Какие задания нужно выполнять и что за них дают."
                     },
                     {
                         "id": "rewards",
                         "title": "Награды",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/rewards.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/rewards.svg",
                         "file": "wiki/battlepass/rewards.mdx",
                         "description": "Всё, что можно получить за прогресс в пропуске."
                     }
@@ -259,48 +259,48 @@
             {
                 "id": "dbooks",
                 "title": "Зачарования",
-                "icon": "https://storage.etty.site/web/icons/wiki/dbooks/mythycal.svg",
+                "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/mythycal.svg",
                 "children": [],
                 "files": [
                     {
                         "id": "simple",
                         "title": "Обычные",
-                        "icon": "https://storage.etty.site/web/icons/wiki/dbooks/common.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/common.svg",
                         "file": "wiki/dbooks/simplebooks.mdx",
                         "description": "Список и информация по обычным кастомным зачарованиям."
                     },
                     {
                         "id": "unique",
                         "title": "Уникальные",
-                        "icon": "https://storage.etty.site/web/icons/wiki/dbooks/uniq.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/uniq.svg",
                         "file": "wiki/dbooks/uniquebooks.mdx",
                         "description": "Список и информация по уникальным кастомным зачарованиям."
                     },
                     {
                         "id": "elite",
                         "title": "Элитные",
-                        "icon": "https://storage.etty.site/web/icons/wiki/dbooks/elite.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/elite.svg",
                         "file": "wiki/dbooks/elitebooks.mdx",
                         "description": "Список и информация по элитным кастомным зачарованиям."
                     },
                     {
                         "id": "ultimate",
                         "title": "Ультимативные",
-                        "icon": "https://storage.etty.site/web/icons/wiki/dbooks/ultimate.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/ultimate.svg",
                         "file": "wiki/dbooks/ultimatebooks.mdx",
                         "description": "Список и информация по ультимативным кастомным зачарованиям."
                     },
                     {
                         "id": "legendary",
                         "title": "Легендарные",
-                        "icon": "https://storage.etty.site/web/icons/wiki/dbooks/legendary.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/legendary.svg",
                         "file": "wiki/dbooks/legendarybooks.mdx",
                         "description": "Список и информация по легендарным кастомным зачарованиям."
                     },
                     {
                         "id": "fabled",
                         "title": "Мифические",
-                        "icon": "https://storage.etty.site/web/icons/wiki/dbooks/mythycal.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/mythycal.svg",
                         "file": "wiki/dbooks/fabledbooks.mdx",
                         "description": "Список и информация по мифическим кастомным зачарованиям."
                     }
@@ -309,13 +309,13 @@
             {
                 "id": "events",
                 "title": "Ивенты",
-                "icon": "https://storage.etty.site/web/icons/wiki/battlepass/rewards.svg",
+                "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/rewards.svg",
                 "children": [],
                 "files": [
                     {
                         "id": "schedule",
                         "title": "Расписание",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/rewards.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/rewards.svg",
                         "file": "wiki/events/schedule.mdx",
                         "description": "Расписание ивентов по дням."
                     }
@@ -324,13 +324,13 @@
             {
                 "id": "fishing",
                 "title": "Кастом - Рыбалка",
-                "icon": "https://storage.etty.site/wiki/survival/rod.webp",
+                "icon": "https://s3.etty.site/web/wiki/survival/rod.webp",
                 "children": [],
                 "files": [
                     {
                         "id": "info",
                         "title": "Информация о Рыбалке",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/fishing/fish_info.mdx",
                         "description": "Что это, внутренние команды, дроп и особенности."
                     }
@@ -339,55 +339,55 @@
             {
                 "id": "cases",
                 "title": "Кейсы",
-                "icon": "https://storage.etty.site/web/icons/wiki/cases/book.svg",
+                "icon": "https://s3.etty.site/web/web/icons/wiki/cases/book.svg",
                 "children": [],
                 "files": [
                     {
                         "id": "donate",
                         "title": "Кейс с донатом",
-                        "icon": "https://storage.etty.site/web/icons/wiki/cases/donate.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/cases/donate.svg",
                         "file": "wiki/cases/donate.mdx",
                         "description": "Шансы на выпадение привилегий."
                     },
                     {
                         "id": "books",
                         "title": "Кейс с книгами",
-                        "icon": "https://storage.etty.site/web/icons/wiki/cases/book.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/cases/book.svg",
                         "file": "wiki/cases/books.mdx",
                         "description": "Шансы на выпадение кастомных зачарований."
                     },
                     {
                         "id": "effect",
                         "title": "Кейс с эффектами",
-                        "icon": "https://storage.etty.site/web/icons/wiki/cases/effects.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/cases/effects.svg",
                         "file": "wiki/cases/effect.mdx",
                         "description": "Шансы на выпадение эффектов."
                     },
                     {
                         "id": "cases",
                         "title": "Кейс с яйцами",
-                        "icon": "https://storage.etty.site/web/icons/wiki/cases/summon.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/cases/summon.svg",
                         "file": "wiki/cases/eggs.mdx",
                         "description": "Шансы на выпадение яиц призыва."
                     },
                     {
                         "id": "plash",
                         "title": "Кейс с плащами",
-                        "icon": "https://storage.etty.site/web/icons/wiki/cases/capes.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/cases/capes.svg",
                         "file": "wiki/cases/plash.mdx",
                         "description": "Шансы на выпадение плащей (косметика)."
                     },
                     {
                         "id": "luck",
                         "title": "Кейс Удачи",
-                        "icon": "https://storage.etty.site/web/icons/wiki/cases/capes.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/cases/capes.svg",
                         "file": "wiki/cases/luck.mdx",
                         "description": "Обзор на кейс удачи"
                     },
                     {
                         "id": "daily",
                         "title": "Ежедневный кейс",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/rewards.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/rewards.svg",
                         "file": "wiki/cases/daily.mdx",
                         "description": "Бесплатный кейс раз в день. Почему бы нет?"
                     }
@@ -396,27 +396,27 @@
             {
                 "id": "clans",
                 "title": "Кланы",
-                "icon": "https://storage.etty.site/wiki/survival/clans.webp",
+                "icon": "https://s3.etty.site/web/wiki/survival/clans.webp",
                 "children": [],
                 "files": [
                     {
                         "id": "info",
                         "title": "Информация",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/clans/inform.mdx",
                         "description": "Зачем вступать в клан и что это даёт."
                     },
                     {
                         "id": "menu",
                         "title": "Меню клана",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/clans/menu.mdx",
                         "description": "Как управлять кланом."
                     },
                     {
                         "id": "level",
                         "title": "Уровни клана",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/clans/level.mdx",
                         "description": "Как качается клан и какие есть бонусы."
                     }
@@ -425,69 +425,69 @@
             {
                 "id": "donate",
                 "title": "Привилегии",
-                "icon": "https://storage.etty.site/web/icons/wiki/donate/player.svg",
+                "icon": "https://s3.etty.site/web/web/icons/wiki/donate/player.svg",
                 "children": [],
                 "files": [
                     {
                         "id": "emperor",
                         "title": "EMPEROR",
-                        "icon": "https://storage.etty.site/web/icons/wiki/donate/emperor.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/donate/emperor.svg",
                         "file": "wiki/donate/emperor.mdx",
                         "description": "Подробная информация по командам и возможностям."
                     },
                     {
                         "id": "legend",
                         "title": "LEGEND",
-                        "icon": "https://storage.etty.site/web/icons/wiki/donate/legend.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/donate/legend.svg",
                         "file": "wiki/donate/legend.mdx",
                         "description": "Подробная информация по командам и возможностям."
                     },
                     {
                         "id": "samurai",
                         "title": "SAMURAI",
-                        "icon": "https://storage.etty.site/web/icons/wiki/donate/samurai.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/donate/samurai.svg",
                         "file": "wiki/donate/samurai.mdx",
                         "description": "Подробная информация по командам и возможностям."
                     },
                     {
                         "id": "shinobi",
                         "title": "SHINOBI",
-                        "icon": "https://storage.etty.site/web/icons/wiki/donate/shinobi.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/donate/shinobi.svg",
                         "file": "wiki/donate/shinobi.mdx",
                         "description": "Подробная информация по командам и возможностям."
                     },
                     {
                         "id": "ghost",
                         "title": "GHOST",
-                        "icon": "https://storage.etty.site/web/icons/wiki/donate/ghost.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/donate/ghost.svg",
                         "file": "wiki/donate/ghost.mdx",
                         "description": "Подробная информация по командам и возможностям."
                     },
                     {
                         "id": "shadow",
                         "title": "SHADOW",
-                        "icon": "https://storage.etty.site/web/icons/wiki/donate/shadow.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/donate/shadow.svg",
                         "file": "wiki/donate/shadow.mdx",
                         "description": "Подробная информация по командам и возможностям."
                     },
                     {
                         "id": "premium",
                         "title": "PREMIUM",
-                        "icon": "https://storage.etty.site/web/icons/wiki/donate/premium.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/donate/premium.svg",
                         "file": "wiki/donate/premium.mdx",
                         "description": "Подробная информация по командам и возможностям."
                     },
                     {
                         "id": "vip",
                         "title": "VIP",
-                        "icon": "https://storage.etty.site/web/icons/wiki/donate/vip.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/donate/vip.svg",
                         "file": "wiki/donate/vip.mdx",
                         "description": "Подробная информация по командам и возможностям."
                     },
                     {
                         "id": "player",
                         "title": "PLAYER",
-                        "icon": "https://storage.etty.site/web/icons/wiki/donate/player.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/donate/player.svg",
                         "file": "wiki/donate/player.mdx",
                         "description": "Подробная информация по командам и возможностям."
                     }
@@ -496,13 +496,13 @@
             {
                 "id": "jobs",
                 "title": "Работы",
-                "icon": "https://storage.etty.site/wiki/survival/dpickaxe.webp",
+                "icon": "https://s3.etty.site/web/wiki/survival/dpickaxe.webp",
                 "children": [],
                 "files": [
                     {
                         "id": "job",
                         "title": "Информация по работам",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/jobs/job.mdx",
                         "description": "Подробная информация о работах сервера."
                     }
@@ -511,125 +511,125 @@
             {
                 "id": "seasonpass",
                 "title": "Сезонный Пропуск",
-                "icon": "https://storage.etty.site/wiki/survival/rubin.webp",
+                "icon": "https://s3.etty.site/web/wiki/survival/rubin.webp",
                 "children": [],
                 "files": [
                     {
                         "id": "info",
                         "title": "Информация",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/seasonpass/sp_info.mdx",
                         "description": "Вся информация про сезонный пропуск"
                     },
                     {
                         "id": "uitem",
                         "title": "Уникальные предметы",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/seasonpass/uitem.mdx",
                         "description": "Уникальные и интересные предметы"
                     },
                     {
                         "id": "material",
                         "title": "Материалы",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/seasonpass/material.mdx",
                         "description": "Черенок и Осколок"
                     },
                     {
                         "id": "raskal",
                         "title": "Раскаленные материалы",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/seasonpass/raskal.mdx",
                         "description": "Информация про Раскаленные материалы"
                     },
                     {
                         "id": "craftinator",
                         "title": "Крафто-инаторы",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/seasonpass/craftinator.mdx",
                         "description": "Информация о Крафто-инаторах"
                     },
                     {
                         "id": "sparmor",
                         "title": "SP Броня",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/seasonpass/sparmor.mdx",
                         "description": "Рецепты крафта брони"
                     },
                     {
                         "id": "spsword",
                         "title": "SP Меч",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/seasonpass/spsword.mdx",
                         "description": "Рецепты крафта меча"
                     },
                     {
                         "id": "spaxe",
                         "title": "SP Топор",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/seasonpass/spaxe.mdx",
                         "description": "Рецепты крафта топоров"
                     },
                     {
                         "id": "sppickaxe",
                         "title": "SP Кирка",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/seasonpass/sppickaxe.mdx",
                         "description": "Рецепты крафта кирки"
                     },
                     {
                         "id": "spshovel",
                         "title": "SP Лопата",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/seasonpass/spshovel.mdx",
                         "description": "Рецепты крафта лопаты"
                     },
                     {
                         "id": "spmot",
                         "title": "SP Мотыга",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/seasonpass/spmot.mdx",
                         "description": "Рецепт крафта мотыги"
                     },
                     {
                         "id": "spfish",
                         "title": "SP Удочка",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/seasonpass/spfish.mdx",
                         "description": "Рецепты крафта удочки"
                     },
                     {
                         "id": "spcrossbow",
                         "title": "SP Арбалет",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/seasonpass/spcrossbow.mdx",
                         "description": "Рецепт крафта арбалета"
                     },
                     {
                         "id": "spluk",
                         "title": "SP Лук",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/seasonpass/spluk.mdx",
                         "description": "Рецепт крафта лука"
                     },
                     {
                         "id": "casedefault",
                         "title": "SP Кейс",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/seasonpass/casedefault.mdx",
                         "description": "Стандартный сезонный кейс"
                     },
                     {
                         "id": "caserare",
                         "title": "SP Редкий кейс",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/seasonpass/caserare.mdx",
                         "description": "Редкий сезонный кейс"
                     },
                     {
                         "id": "caseplus",
                         "title": "SP Кейс Плюс",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/seasonpass/caseplus.mdx",
                         "description": "Улучшенный сезонный кейс"
                     }
@@ -638,20 +638,20 @@
             {
                 "id": "skills",
                 "title": "Скиллы",
-                "icon": "https://storage.etty.site/wiki/survival/lazurit.webp",
+                "icon": "https://s3.etty.site/web/wiki/survival/lazurit.webp",
                 "children": [],
                 "files": [
                     {
                         "id": "skill",
                         "title": "Информация по скиллам",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/skills/skill.mdx",
                         "description": "Что такое скиллы?"
                     },
                     {
                         "id": "fullskill",
                         "title": "Все скиллы",
-                        "icon": "https://storage.etty.site/web/icons/wiki/battlepass/info.svg",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
                         "file": "wiki/skills/fullskill.mdx",
                         "description": "Доступные скиллы."
                     }
