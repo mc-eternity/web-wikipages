@@ -6,12 +6,6 @@
         "children": [],
         "files": [
             {
-                "id": "modifications",
-                "title": "Модификации клиента",
-                "icon": "https://s3.etty.site/web/web/icons/rules/mods.webp",
-                "description": "Допустимые и запрещённые модификации - что можно ставить, а за что дадут бан."
-            },
-            {
                 "id": "codex",
                 "title": "Процедурный кодекс",
                 "icon": "https://s3.etty.site/web/web/icons/rules/2.webp",
