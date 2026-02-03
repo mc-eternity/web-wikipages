@@ -206,6 +206,13 @@
                         "icon": "https://s3.etty.site/web/wiki/survival/spawner.webp",
                         "file": "wiki/start/spawner.mdx",
                         "description": "Как работают, где встречаются, как добыть."
+                    },
+                    {
+                        "id": "plasmavoice",
+                        "title": "PlasmoVoice",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/start/dirt.svg",
+                        "file": "wiki/start/plasmavoice.mdx",
+                        "description": "Голосовой чат: установка, настройка, группы, macOS."
                     }
                 ]
             },
