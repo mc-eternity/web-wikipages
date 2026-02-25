@@ -446,6 +446,21 @@
                 ]
             },
             {
+                "id": "cosmetics",
+                "title": "Косметика",
+                "icon": "https://s3.etty.site/web/web/icons/wiki/cases/capes.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "miniatures",
+                        "title": "Миниатюры",
+                        "icon": "https://s3.etty.site/web/wiki/survival/cosmetics/miniature_devil.webp",
+                        "file": "wiki/cosmetics/miniatures.mdx",
+                        "description": "Список и обзор миниатюр из /cosmetics."
+                    }
+                ]
+            },
+            {
                 "id": "donate",
                 "title": "Привилегии",
                 "icon": "https://s3.etty.site/web/web/icons/wiki/donate/player.svg",
