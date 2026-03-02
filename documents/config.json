@@ -2,13 +2,13 @@
     {
         "id": "rules",
         "title": "Правила",
-        "icon": "https://s3.etty.site/web/web/icons/rules/1.webp",
+        "icon": "https://s3.etty.site/web/wiki/icons/rules/1.webp",
         "children": [],
         "files": [
             {
                 "id": "codex",
                 "title": "Процедурный кодекс",
-                "icon": "https://s3.etty.site/web/web/icons/rules/2.webp",
+                "icon": "https://s3.etty.site/web/wiki/icons/rules/2.webp",
                 "file": "rules/codex.mdx",
                 "description": "Как устроен проект: роли, процедуры, жалобы, разбирательства и др.",
                 "preload": true
@@ -16,7 +16,7 @@
             {
                 "id": "rules",
                 "title": "Общие правила",
-                "icon": "https://s3.etty.site/web/web/icons/rules/1.webp",
+                "icon": "https://s3.etty.site/web/wiki/icons/rules/1.webp",
                 "file": "rules/base-rules.mdx",
                 "description": "Общие правила поведения для всех - что запрещено, как не быть забаненным.",
                 "preload": true
@@ -24,7 +24,7 @@
             {
                 "id": "survival",
                 "title": "Правила Выживание",
-                "icon": "https://s3.etty.site/web/web/icons/rules/3.webp",
+                "icon": "https://s3.etty.site/web/wiki/icons/rules/3.webp",
                 "file": "rules/survival-rules.mdx",
                 "description": "Особенности режима: механики, ограничения и внутриигровые нюансы.",
                 "preload": true
@@ -32,7 +32,7 @@
             {
                 "id": "media",
                 "title": "Правила соц-сетей",
-                "icon": "https://s3.etty.site/web/web/icons/rules/4.webp",
+                "icon": "https://s3.etty.site/web/wiki/icons/rules/4.webp",
                 "file": "rules/media-rules.mdx",
                 "description": "Коммуникация за пределами сервера: как вести себя в Discord, Telegram и ВКонтакте.",
                 "preload": true
@@ -40,7 +40,7 @@
             {
                 "id": "testsurv",
                 "title": "Правила Выживание",
-                "icon": "https://s3.etty.site/web/web/icons/rules/3.webp",
+                "icon": "https://s3.etty.site/web/wiki/icons/rules/3.webp",
                 "file": "rules/test-rules.mdx",
                 "hidden": true,
                 "description": "Особенности режима: механики, ограничения и внутриигровые нюансы.",
