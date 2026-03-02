@@ -51,13 +51,13 @@
     {
         "id": "legal",
         "title": "Документы",
-        "icon": "https://s3.etty.site/web/web/icons/legal/2.webp",
+        "icon": "https://s3.etty.site/web/wiki/icons/legacy/2.webp",
         "children": [],
         "files": [
             {
                 "id": "oferta_eternity",
                 "title": "Договор оферты",
-                "icon": "https://s3.etty.site/web/web/icons/legal/1.webp",
+                "icon": "https://s3.etty.site/web/wiki/icons/legacy/1.webp",
                 "file": "docs/oferta_eternity.mdx",
                 "description": "Публичный договор, регулирующий отношения между сторонами.",
                 "preload": true
@@ -65,7 +65,7 @@
             {
                 "id": "license",
                 "title": "Лиц. соглашение",
-                "icon": "https://s3.etty.site/web/web/icons/legal/2.webp",
+                "icon": "https://s3.etty.site/web/wiki/icons/legacy/2.webp",
                 "file": "docs/license.mdx",
                 "description": "Правила использования нематериальной функциональности проекта.",
                 "preload": true
@@ -73,7 +73,7 @@
             {
                 "id": "privacy-policy",
                 "title": "П. конфиденциальности",
-                "icon": "https://s3.etty.site/web/web/icons/legal/3.webp",
+                "icon": "https://s3.etty.site/web/wiki/icons/legacy/3.webp",
                 "file": "docs/privacy-policy.mdx",
                 "description": "Как мы обрабатываем, храним и защищаем твои персональные данные.",
                 "preload": true
@@ -81,7 +81,7 @@
             {
                 "id": "cookies-policy",
                 "title": "Файлы cookie",
-                "icon": "https://s3.etty.site/web/web/icons/legal/4.webp",
+                "icon": "https://s3.etty.site/web/wiki/icons/legacy/4.webp",
                 "file": "docs/cookies_policy.mdx",
                 "description": "Информация о технологиях отслеживания: cookie, локальное хранилище и др.",
                 "preload": true
@@ -89,7 +89,7 @@
             {
                 "id": "promo",
                 "title": "Акции и промокоды",
-                "icon": "https://s3.etty.site/web/web/icons/legal/5.webp",
+                "icon": "https://s3.etty.site/web/wiki/icons/legacy/5.webp",
                 "file": "docs/promo.mdx",
                 "description": "Правила проведения временных акций, бонусных раздач, скидок и др.",
                 "preload": true
