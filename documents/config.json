@@ -177,6 +177,12 @@
                 "title": "Политика конфиденциальности (утратил силу 15.02.2026)",
                 "hidden": true,
                 "file": "docs/old/privacy/privacy-15.02.2026.mdx"
+            },
+            {
+                "id": "privacy-02-03-2026",
+                "title": "Политика конфиденциальности (утратил силу 02.03.2026)",
+                "hidden": true,
+                "file": "docs/old/privacy/privacy-02.03.2026.mdx"
             }
         ]
     },
