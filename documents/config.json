@@ -703,5 +703,63 @@
             }
         ],
         "files": []
+    },
+    {
+        "id": "wiki-skyblock",
+        "title": "Вики Скайблок",
+        "icon": "https://s3.etty.site/web/web/icons/wikipedia.svg",
+        "children": [
+            {
+                "id": "dbooks-skyblock",
+                "title": "Зачарования",
+                "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/mythycal.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "simple-skyblock",
+                        "title": "Обычные",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/common.svg",
+                        "file": "wiki/dbooks/simplebooks.mdx",
+                        "description": "Список и информация по обычным кастомным зачарованиям для Скайблока."
+                    },
+                    {
+                        "id": "unique-skyblock",
+                        "title": "Уникальные",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/uniq.svg",
+                        "file": "wiki/dbooks/uniquebooks.mdx",
+                        "description": "Список и информация по уникальным кастомным зачарованиям для Скайблока."
+                    },
+                    {
+                        "id": "elite-skyblock",
+                        "title": "Элитные",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/elite.svg",
+                        "file": "wiki/dbooks/elitebooks.mdx",
+                        "description": "Список и информация по элитным кастомным зачарованиям для Скайблока."
+                    },
+                    {
+                        "id": "ultimate-skyblock",
+                        "title": "Ультимативные",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/ultimate.svg",
+                        "file": "wiki/dbooks/ultimatebooks.mdx",
+                        "description": "Список и информация по ультимативным кастомным зачарованиям для Скайблока."
+                    },
+                    {
+                        "id": "legendary-skyblock",
+                        "title": "Легендарные",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/legendary.svg",
+                        "file": "wiki/dbooks/legendarybooks.mdx",
+                        "description": "Список и информация по легендарным кастомным зачарованиям для Скайблока."
+                    },
+                    {
+                        "id": "fabled-skyblock",
+                        "title": "Мифические",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/mythycal.svg",
+                        "file": "wiki/dbooks/fabledbooks.mdx",
+                        "description": "Список и информация по мифическим кастомным зачарованиям для Скайблока."
+                    }
+                ]
+            }
+        ],
+        "files": []
     }
 ]
