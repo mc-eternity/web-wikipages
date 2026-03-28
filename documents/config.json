@@ -739,6 +739,35 @@
                 ]
             },
             {
+                "id": "battlepass",
+                "title": "Боевой Пропуск",
+                "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/bpass.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "skyblock-bp-info",
+                        "title": "Информация",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/skyblock/battlepass/info.mdx",
+                        "description": "Что такое боевой пропуск, зачем он нужен."
+                    },
+                    {
+                        "id": "skyblock-bp-quests",
+                        "title": "Квесты",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/quests.svg",
+                        "file": "wiki/skyblock/battlepass/quests.mdx",
+                        "description": "Какие задания нужно выполнять и что за них дают."
+                    },
+                    {
+                        "id": "skyblock-bp-rewards",
+                        "title": "Награды",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/rewards.svg",
+                        "file": "wiki/skyblock/battlepass/rewards.mdx",
+                        "description": "Всё, что можно получить за прогресс в пропуске."
+                    }
+                ]
+            },
+            {
                 "id": "dbooks-skyblock",
                 "title": "Зачарования",
                 "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/mythycal.svg",
@@ -785,6 +814,28 @@
                         "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/mythycal.svg",
                         "file": "wiki/dbooks/fabledbooks.mdx",
                         "description": "Список и информация по мифическим кастомным зачарованиям."
+                    }
+                ]
+            },
+            {
+                "id": "skills",
+                "title": "Скиллы",
+                "icon": "https://s3.etty.site/web/wiki/survival/lazurit.webp",
+                "children": [],
+                "files": [
+                    {
+                        "id": "skyblock-skill",
+                        "title": "Информация по скиллам",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/skyblock/skills/skill.mdx",
+                        "description": "Что такое скиллы?"
+                    },
+                    {
+                        "id": "skyblock-fullskill",
+                        "title": "Все скиллы",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/skyblock/skills/fullskill.mdx",
+                        "description": "Доступные скиллы."
                     }
                 ]
             },
@@ -850,6 +901,21 @@
                         "icon": "https://s3.etty.site/web/web/icons/wiki/cases/capes.svg",
                         "file": "wiki/skyblock/cases/luck.mdx",
                         "description": "Обзор на кейс удачи."
+                    }
+                ]
+            },
+            {
+                "id": "cosmetics",
+                "title": "Косметика",
+                "icon": "https://s3.etty.site/web/web/icons/wiki/cases/capes.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "skyblock-miniatures",
+                        "title": "Миниатюры",
+                        "icon": "https://s3.etty.site/web/wiki/survival/cosmetics/miniature_devil.webp",
+                        "file": "wiki/skyblock/cosmetics/miniatures.mdx",
+                        "description": "Список и обзор миниатюр из /cosmetics."
                     }
                 ]
             },
