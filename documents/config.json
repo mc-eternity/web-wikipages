@@ -787,6 +787,77 @@
                         "description": "Список и информация по мифическим кастомным зачарованиям для Скайблока."
                     }
                 ]
+            },
+            {
+                "id": "skyblock_donate",
+                "title": "Привилегии",
+                "icon": "https://s3.etty.site/web/web/icons/wiki/donate/player.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "skyblock_infinity",
+                        "title": "INFINITY",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/donate/emperor.svg",
+                        "file": "wiki/skyblock/donate/infinity.mdx",
+                        "description": "Подробная информация по командам и возможностям. Для Скайблока."
+                    },
+                    {
+                        "id": "skyblock_ultimate",
+                        "title": "ULTIMATE",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/donate/legend.svg",
+                        "file": "wiki/skyblock/donate/ultimate.mdx",
+                        "description": "Подробная информация по командам и возможностям. Для Скайблока."
+                    },
+                    {
+                        "id": "skyblock_phantom",
+                        "title": "PHANTOM",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/donate/samurai.svg",
+                        "file": "wiki/skyblock/donate/phantom.mdx",
+                        "description": "Подробная информация по командам и возможностям. Для Скайблока."
+                    },
+                    {
+                        "id": "skyblock_elite",
+                        "title": "ELITE",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/donate/shinobi.svg",
+                        "file": "wiki/skyblock/donate/elite.mdx",
+                        "description": "Подробная информация по командам и возможностям. Для Скайблока."
+                    },
+                    {
+                        "id": "skyblock_deluxe",
+                        "title": "DELUXE",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/donate/ghost.svg",
+                        "file": "wiki/skyblock/donate/deluxe.mdx",
+                        "description": "Подробная информация по командам и возможностям. Для Скайблока."
+                    },
+                    {
+                        "id": "skyblock_prime",
+                        "title": "PRIME",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/donate/shadow.svg",
+                        "file": "wiki/skyblock/donate/prime.mdx",
+                        "description": "Подробная информация по командам и возможностям. Для Скайблока."
+                    },
+                    {
+                        "id": "skyblock_ultra",
+                        "title": "ULTRA",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/donate/premium.svg",
+                        "file": "wiki/skyblock/donate/ultra.mdx",
+                        "description": "Подробная информация по командам и возможностям. Для Скайблока."
+                    },
+                    {
+                        "id": "skyblock_hero",
+                        "title": "HERO",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/donate/vip.svg",
+                        "file": "wiki/skyblock/donate/hero.mdx",
+                        "description": "Подробная информация по командам и возможностям. Для Скайблока."
+                    },
+                    {
+                        "id": "skyblock_player",
+                        "title": "PLAYER",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/donate/player.svg",
+                        "file": "wiki/skyblock/donate/player.mdx",
+                        "description": "Подробная информация по командам и возможностям. Для Скайблока."
+                    }
+                ]
             }
         ],
         "files": []
