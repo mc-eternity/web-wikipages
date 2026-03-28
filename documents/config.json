@@ -720,21 +720,21 @@
                         "title": "Ваш аккаунт",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/start/cookie.svg",
                         "file": "wiki/skyblock/start/acc.mdx",
-                        "description": "Как зарегистрироваться, сменить ник и защитить аккаунт. Для Скайблока."
+                        "description": "Как зарегистрироваться, сменить ник и защитить аккаунт."
                     },
                     {
                         "id": "skyblock-help",
                         "title": "Общая Информация",
                         "icon": "https://s3.etty.site/web/wiki/survival/almaz.webp",
                         "file": "wiki/skyblock/start/help.mdx",
-                        "description": "Общая информация по режиму, его особенности. Для Скайблока."
+                        "description": "Общая информация по режиму, его особенности."
                     },
                     {
                         "id": "skyblock-plasmavoice",
                         "title": "PlasmoVoice",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/start/dirt.svg",
                         "file": "wiki/skyblock/start/plasmavoice.mdx",
-                        "description": "Голосовой чат: установка, настройка, группы, macOS. Для Скайблока."
+                        "description": "Голосовой чат: установка, настройка, группы, macOS."
                     }
                 ]
             },
@@ -749,42 +749,107 @@
                         "title": "Обычные",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/common.svg",
                         "file": "wiki/dbooks/simplebooks.mdx",
-                        "description": "Список и информация по обычным кастомным зачарованиям для Скайблока."
+                        "description": "Список и информация по обычным кастомным зачарованиям."
                     },
                     {
                         "id": "unique-skyblock",
                         "title": "Уникальные",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/uniq.svg",
                         "file": "wiki/dbooks/uniquebooks.mdx",
-                        "description": "Список и информация по уникальным кастомным зачарованиям для Скайблока."
+                        "description": "Список и информация по уникальным кастомным зачарованиям."
                     },
                     {
                         "id": "elite-skyblock",
                         "title": "Элитные",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/elite.svg",
                         "file": "wiki/dbooks/elitebooks.mdx",
-                        "description": "Список и информация по элитным кастомным зачарованиям для Скайблока."
+                        "description": "Список и информация по элитным кастомным зачарованиям."
                     },
                     {
                         "id": "ultimate-skyblock",
                         "title": "Ультимативные",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/ultimate.svg",
                         "file": "wiki/dbooks/ultimatebooks.mdx",
-                        "description": "Список и информация по ультимативным кастомным зачарованиям для Скайблока."
+                        "description": "Список и информация по ультимативным кастомным зачарованиям."
                     },
                     {
                         "id": "legendary-skyblock",
                         "title": "Легендарные",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/legendary.svg",
                         "file": "wiki/dbooks/legendarybooks.mdx",
-                        "description": "Список и информация по легендарным кастомным зачарованиям для Скайблока."
+                        "description": "Список и информация по легендарным кастомным зачарованиям."
                     },
                     {
                         "id": "fabled-skyblock",
                         "title": "Мифические",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/mythycal.svg",
                         "file": "wiki/dbooks/fabledbooks.mdx",
-                        "description": "Список и информация по мифическим кастомным зачарованиям для Скайблока."
+                        "description": "Список и информация по мифическим кастомным зачарованиям."
+                    }
+                ]
+            },
+            {
+                "id": "fishing",
+                "title": "Кастом - Рыбалка",
+                "icon": "https://s3.etty.site/web/wiki/survival/rod.webp",
+                "children": [],
+                "files": [
+                    {
+                        "id": "skyblock-fish-info",
+                        "title": "Информация о Рыбалке",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/battlepass/info.svg",
+                        "file": "wiki/skyblock/fishing/fish_info.mdx",
+                        "description": "Что это, внутренние команды, дроп и особенности."
+                    }
+                ]
+            },
+            {
+                "id": "cases",
+                "title": "Кейсы",
+                "icon": "https://s3.etty.site/web/web/icons/wiki/cases/book.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "skyblock-case-donate",
+                        "title": "Кейс с донатом",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/cases/donate.svg",
+                        "file": "wiki/skyblock/cases/donate.mdx",
+                        "description": "Шансы на выпадение привилегий."
+                    },
+                    {
+                        "id": "skyblock-case-books",
+                        "title": "Кейс с книгами",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/cases/book.svg",
+                        "file": "wiki/skyblock/cases/books.mdx",
+                        "description": "Шансы на выпадение кастомных зачарований."
+                    },
+                    {
+                        "id": "skyblock-case-effect",
+                        "title": "Кейс с эффектами",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/cases/effects.svg",
+                        "file": "wiki/skyblock/cases/effect.mdx",
+                        "description": "Шансы на выпадение эффектов."
+                    },
+                    {
+                        "id": "skyblock-case-eggs",
+                        "title": "Кейс с яйцами",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/cases/summon.svg",
+                        "file": "wiki/skyblock/cases/eggs.mdx",
+                        "description": "Шансы на выпадение яиц призыва."
+                    },
+                    {
+                        "id": "skyblock-case-plash",
+                        "title": "Кейс с плащами",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/cases/capes.svg",
+                        "file": "wiki/skyblock/cases/plash.mdx",
+                        "description": "Шансы на выпадение плащей (косметика)."
+                    },
+                    {
+                        "id": "skyblock-case-luck",
+                        "title": "Кейс Удачи",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/cases/capes.svg",
+                        "file": "wiki/skyblock/cases/luck.mdx",
+                        "description": "Обзор на кейс удачи."
                     }
                 ]
             },
@@ -799,63 +864,63 @@
                         "title": "INFINITY",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/donate/emperor.svg",
                         "file": "wiki/skyblock/donate/infinity.mdx",
-                        "description": "Подробная информация по командам и возможностям. Для Скайблока."
+                        "description": "Подробная информация по командам и возможностям."
                     },
                     {
                         "id": "skyblock-ultimate",
                         "title": "ULTIMATE",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/donate/legend.svg",
                         "file": "wiki/skyblock/donate/ultimate.mdx",
-                        "description": "Подробная информация по командам и возможностям. Для Скайблока."
+                        "description": "Подробная информация по командам и возможностям."
                     },
                     {
                         "id": "skyblock-phantom",
                         "title": "PHANTOM",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/donate/samurai.svg",
                         "file": "wiki/skyblock/donate/phantom.mdx",
-                        "description": "Подробная информация по командам и возможностям. Для Скайблока."
+                        "description": "Подробная информация по командам и возможностям."
                     },
                     {
                         "id": "skyblock-elite",
                         "title": "ELITE",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/donate/shinobi.svg",
                         "file": "wiki/skyblock/donate/elite.mdx",
-                        "description": "Подробная информация по командам и возможностям. Для Скайблока."
+                        "description": "Подробная информация по командам и возможностям."
                     },
                     {
                         "id": "skyblock-deluxe",
                         "title": "DELUXE",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/donate/ghost.svg",
                         "file": "wiki/skyblock/donate/deluxe.mdx",
-                        "description": "Подробная информация по командам и возможностям. Для Скайблока."
+                        "description": "Подробная информация по командам и возможностям."
                     },
                     {
                         "id": "skyblock-prime",
                         "title": "PRIME",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/donate/shadow.svg",
                         "file": "wiki/skyblock/donate/prime.mdx",
-                        "description": "Подробная информация по командам и возможностям. Для Скайблока."
+                        "description": "Подробная информация по командам и возможностям."
                     },
                     {
                         "id": "skyblock-ultra",
                         "title": "ULTRA",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/donate/premium.svg",
                         "file": "wiki/skyblock/donate/ultra.mdx",
-                        "description": "Подробная информация по командам и возможностям. Для Скайблока."
+                        "description": "Подробная информация по командам и возможностям."
                     },
                     {
                         "id": "skyblock-hero",
                         "title": "HERO",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/donate/vip.svg",
                         "file": "wiki/skyblock/donate/hero.mdx",
-                        "description": "Подробная информация по командам и возможностям. Для Скайблока."
+                        "description": "Подробная информация по командам и возможностям."
                     },
                     {
                         "id": "skyblock-player",
                         "title": "PLAYER",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/donate/player.svg",
                         "file": "wiki/skyblock/donate/player.mdx",
-                        "description": "Подробная информация по командам и возможностям. Для Скайблока."
+                        "description": "Подробная информация по командам и возможностям."
                     }
                 ]
             }
