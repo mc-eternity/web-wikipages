@@ -710,27 +710,27 @@
         "icon": "https://s3.etty.site/web/web/icons/wikipedia.svg",
         "children": [
             {
-                "id": "skyblock_start",
+                "id": "skyblock-start",
                 "title": "Начало игры",
                 "icon": "https://s3.etty.site/web/web/icons/wiki/start/dirt.svg",
                 "children": [],
                 "files": [
                     {
-                        "id": "skyblock_account",
+                        "id": "skyblock-account",
                         "title": "Ваш аккаунт",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/start/cookie.svg",
                         "file": "wiki/skyblock/start/acc.mdx",
                         "description": "Как зарегистрироваться, сменить ник и защитить аккаунт. Для Скайблока."
                     },
                     {
-                        "id": "skyblock_help",
+                        "id": "skyblock-help",
                         "title": "Общая Информация",
                         "icon": "https://s3.etty.site/web/wiki/survival/almaz.webp",
                         "file": "wiki/skyblock/start/help.mdx",
                         "description": "Общая информация по режиму, его особенности. Для Скайблока."
                     },
                     {
-                        "id": "skyblock_plasmavoice",
+                        "id": "skyblock-plasmavoice",
                         "title": "PlasmoVoice",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/start/dirt.svg",
                         "file": "wiki/skyblock/start/plasmavoice.mdx",
@@ -795,63 +795,63 @@
                 "children": [],
                 "files": [
                     {
-                        "id": "skyblock_infinity",
+                        "id": "skyblock-infinity",
                         "title": "INFINITY",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/donate/emperor.svg",
                         "file": "wiki/skyblock/donate/infinity.mdx",
                         "description": "Подробная информация по командам и возможностям. Для Скайблока."
                     },
                     {
-                        "id": "skyblock_ultimate",
+                        "id": "skyblock-ultimate",
                         "title": "ULTIMATE",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/donate/legend.svg",
                         "file": "wiki/skyblock/donate/ultimate.mdx",
                         "description": "Подробная информация по командам и возможностям. Для Скайблока."
                     },
                     {
-                        "id": "skyblock_phantom",
+                        "id": "skyblock-phantom",
                         "title": "PHANTOM",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/donate/samurai.svg",
                         "file": "wiki/skyblock/donate/phantom.mdx",
                         "description": "Подробная информация по командам и возможностям. Для Скайблока."
                     },
                     {
-                        "id": "skyblock_elite",
+                        "id": "skyblock-elite",
                         "title": "ELITE",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/donate/shinobi.svg",
                         "file": "wiki/skyblock/donate/elite.mdx",
                         "description": "Подробная информация по командам и возможностям. Для Скайблока."
                     },
                     {
-                        "id": "skyblock_deluxe",
+                        "id": "skyblock-deluxe",
                         "title": "DELUXE",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/donate/ghost.svg",
                         "file": "wiki/skyblock/donate/deluxe.mdx",
                         "description": "Подробная информация по командам и возможностям. Для Скайблока."
                     },
                     {
-                        "id": "skyblock_prime",
+                        "id": "skyblock-prime",
                         "title": "PRIME",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/donate/shadow.svg",
                         "file": "wiki/skyblock/donate/prime.mdx",
                         "description": "Подробная информация по командам и возможностям. Для Скайблока."
                     },
                     {
-                        "id": "skyblock_ultra",
+                        "id": "skyblock-ultra",
                         "title": "ULTRA",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/donate/premium.svg",
                         "file": "wiki/skyblock/donate/ultra.mdx",
                         "description": "Подробная информация по командам и возможностям. Для Скайблока."
                     },
                     {
-                        "id": "skyblock_hero",
+                        "id": "skyblock-hero",
                         "title": "HERO",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/donate/vip.svg",
                         "file": "wiki/skyblock/donate/hero.mdx",
                         "description": "Подробная информация по командам и возможностям. Для Скайблока."
                     },
                     {
-                        "id": "skyblock_player",
+                        "id": "skyblock-player",
                         "title": "PLAYER",
                         "icon": "https://s3.etty.site/web/web/icons/wiki/donate/player.svg",
                         "file": "wiki/skyblock/donate/player.mdx",
