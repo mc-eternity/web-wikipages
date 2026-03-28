@@ -710,6 +710,35 @@
         "icon": "https://s3.etty.site/web/web/icons/wikipedia.svg",
         "children": [
             {
+                "id": "skyblock_start",
+                "title": "Начало игры",
+                "icon": "https://s3.etty.site/web/web/icons/wiki/start/dirt.svg",
+                "children": [],
+                "files": [
+                    {
+                        "id": "skyblock_account",
+                        "title": "Ваш аккаунт",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/start/cookie.svg",
+                        "file": "wiki/skyblock/start/acc.mdx",
+                        "description": "Как зарегистрироваться, сменить ник и защитить аккаунт. Для Скайблока."
+                    },
+                    {
+                        "id": "skyblock_help",
+                        "title": "Общая Информация",
+                        "icon": "https://s3.etty.site/web/wiki/survival/almaz.webp",
+                        "file": "wiki/skyblock/start/help.mdx",
+                        "description": "Общая информация по режиму, его особенности. Для Скайблока."
+                    },
+                    {
+                        "id": "skyblock_plasmavoice",
+                        "title": "PlasmoVoice",
+                        "icon": "https://s3.etty.site/web/web/icons/wiki/start/dirt.svg",
+                        "file": "wiki/skyblock/start/plasmavoice.mdx",
+                        "description": "Голосовой чат: установка, настройка, группы, macOS. Для Скайблока."
+                    }
+                ]
+            },
+            {
                 "id": "dbooks-skyblock",
                 "title": "Зачарования",
                 "icon": "https://s3.etty.site/web/web/icons/wiki/dbooks/mythycal.svg",
