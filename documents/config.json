@@ -789,7 +789,7 @@
                 ]
             },
             {
-                "id": "skyblock_donate",
+                "id": "donate",
                 "title": "Привилегии",
                 "icon": "https://s3.etty.site/web/web/icons/wiki/donate/player.svg",
                 "children": [],
