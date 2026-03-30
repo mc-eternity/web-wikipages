@@ -30,6 +30,14 @@
                 "preload": true
             },
             {
+                "id": "skyblock",
+                "title": "Правила Скайблок",
+                "icon": "https://s3.etty.site/web/wiki/icons/rules/3.webp",
+                "file": "rules/skyblock-rules.mdx",
+                "description": "Особенности режима: механики, ограничения и внутриигровые нюансы.",
+                "preload": true
+            },
+            {
                 "id": "media",
                 "title": "Правила соц-сетей",
                 "icon": "https://s3.etty.site/web/wiki/icons/rules/4.webp",
